@@ -15,7 +15,7 @@ among architects, delivery and operation teams.
 
 We aim to make contributing to Continuous Architecture Toolkit a pleasant and enriching experience for all participants, and we welcome contributions of all kinds. Anyone can contribute to the project, regardless of their skills.
 
-Check out our [Governance](governance/governance) for information on how to get involved.
+Check out our [Governance](governance/governance.md) for information on how to get involved.
 
 # Building the Continuous Architecture website on your machine
 
