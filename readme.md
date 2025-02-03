@@ -1,6 +1,6 @@
 
 
-image::continuous-architecture-logo.png[ca-logo]
+![Continuous Architecture Logo](img/continuous-architecture-logo.png)
 
 # Purpose
 
