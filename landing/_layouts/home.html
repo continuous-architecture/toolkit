@@ -4,14 +4,6 @@ layout: landing
 
 <div class="home">
 
-  <!-- <div class="catchphrase row justc-center alitems-stretch">
-    <div class="content-wrapper row justc-center alitems-center pd-xl m-column s-pdh-m" style="padding-bottom: 20px">
-      <div class="catchphrase-text mgl-l column m-mgl-0 m-alitems-center">
-        
-      </div>
-    </div>
-  </div> -->
-  
   <div class="hero column justc-center alitems-center">
 
     <div class="content-wrapper row justc-center alitems-center pd-xl m-column s-pdh-m" style="padding-top: 40px">
@@ -37,50 +29,13 @@ layout: landing
 
   </div>
 
-  <div class="timeline row justc-center pdv-l">
-    <div class="timeline-wrapper" >
+  <div class="justc-center">
     {% include google-search.html %}
-    </div>
-
-    <div class="timeline-wrapper">
-      <div class="mx-auto feature-card">
-        <div class="row alitems-center">
-          <div class="timeline-icon -start-3">
-            <img class="fill-current text-blue-500" src="assets/imgs/calendar.svg" alt="icon">
-          </div>
-          <div class="flex-1 ml-4">
-            <h2 class="text-3xl font-bold pb-8" style="color: rgb(11,29,55)">Events of the Community</h2>
-          </div>
-        </div>
-        <div class="mx-auto alitems-center mt-8">
-          <ol class="relative border-s border-gray-200 ">
-        {% for event in page.timeline.events %}
-              <li class="mb-6 ms-4">
-                  <span class="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white">
-                    <svg class="w-2.5 h-2.5 text-blue-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
-                      <path d="M20 4a2 2 0 0 0-2-2h-2V1a1 1 0 0 0-2 0v1h-3V1a1 1 0 0 0-2 0v1H6V1a1 1 0 0 0-2 0v1H2a2 2 0 0 0-2 2v2h20V4ZM0 18a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8H0v10Zm5-8h10a1 1 0 0 1 0 2H5a1 1 0 0 1 0-2Z"/>
-                    </svg>
-                  </span>
-                  
-                  <h3 class="flex items-center mb-1 text-lg font-semibold" style="color: rgb(11,29,55); padding-left: 30px;">{{ event.title }}
-                  {% if event.next == true %}
-                    <span class="bg-blue-100 text-blue-600 text-sm font-medium me-2 px-2.5 py-0.5 rounded ms-3">Next</span>
-                  {% endif %}
-                  </h3>
-                  <time class="block mb-1 text-base font-normal leading-none text-gray-700">{{ event.time }}</time>
-                  <p class="block mb-2 text-base font-normal leading-none text-gray-700">{{ event.location}}</p>
-                  {% if event.details %} <p class="mb-1 text-base font-normal text-gray-500">{{ event.details }}</p> {% endif %}
-                  <a class="block no-underline text-blue-600 text-sm font-normal" href="{{ event.url }}">Details →</a>
-              </li>
-        {% endfor %}
-            </ol>
-        </div>
-      </div>
-    </div>
   </div>
 
-  <div class="features row justc-center pdv-l">
+  <div class="timeline row justc-center pdv-l">
     <div class="content-wrapper column alitems-stretch">  
+
 
       <div class="feature-card column mgb-s alitems-start">
         <div class="row alitems-center mgb-xs">
@@ -125,6 +80,42 @@ layout: landing
               <div class="grey-text">{{ feature.text | markdownify }}</div>
             </div>
           {% endfor %}
+        </div>
+      </div>
+    </div>    
+
+    <div class="timeline-wrapper">
+      <div class="mx-auto feature-card">
+        <div class="row alitems-center">
+          <div class="timeline-icon -start-3">
+            <img class="fill-current text-blue-500" src="assets/imgs/calendar.svg" alt="icon">
+          </div>
+          <div class="flex-1 ml-4">
+            <h2 class="text-3xl font-bold pb-8" style="color: rgb(11,29,55)">Continuous Architecture Community Events</h2>
+          </div>
+        </div>
+        <div class="mx-auto alitems-center mt-8">
+          <ol class="relative border-s border-gray-200 ">
+        {% for event in page.timeline.events %}
+              <li class="mb-6 ms-4">
+                  <span class="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white">
+                    <svg class="w-2.5 h-2.5 text-blue-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
+                      <path d="M20 4a2 2 0 0 0-2-2h-2V1a1 1 0 0 0-2 0v1h-3V1a1 1 0 0 0-2 0v1H6V1a1 1 0 0 0-2 0v1H2a2 2 0 0 0-2 2v2h20V4ZM0 18a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8H0v10Zm5-8h10a1 1 0 0 1 0 2H5a1 1 0 0 1 0-2Z"/>
+                    </svg>
+                  </span>
+                  
+                  <h3 class="flex items-center mb-1 text-lg font-semibold" style="color: rgb(11,29,55); padding-left: 30px;">{{ event.title }}
+                  {% if event.next == true %}
+                    <span class="bg-blue-100 text-blue-600 text-sm font-medium me-2 px-2.5 py-0.5 rounded ms-3">Next</span>
+                  {% endif %}
+                  </h3>
+                  <time class="block mb-1 text-base font-normal leading-none text-gray-700">{{ event.time }}</time>
+                  <p class="block mb-2 text-base font-normal leading-none text-gray-700">{{ event.location}}</p>
+                  {% if event.details %} <p class="mb-1 text-base font-normal text-gray-500">{{ event.details }}</p> {% endif %}
+                  <a class="block no-underline text-blue-600 text-sm font-normal" href="{{ event.url }}">Details →</a>
+              </li>
+        {% endfor %}
+            </ol>
         </div>
       </div>
     </div>
