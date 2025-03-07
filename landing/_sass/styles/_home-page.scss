@@ -17,7 +17,7 @@
   // min-height: 9vh;
   background: $gradient-dark;
   color: $white;
-  padding: $spacing-unit*8 0 $spacing-unit*6 0;
+  padding: $spacing-unit*6 0 $spacing-unit*3 0;
 
   @include media-query($tablet) {
     padding: $spacing-unit*4 0 $spacing-unit*3 0;
@@ -140,6 +140,7 @@
 
 .timeline-wrapper {
   width: 50%;
+  margin: 20px;
 
   @include media-query($tablet) {
     width: 100%;

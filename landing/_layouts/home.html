@@ -11,8 +11,9 @@ layout: landing
       </div>
     </div>
   </div> -->
-
+  
   <div class="hero column justc-center alitems-center">
+
     <div class="content-wrapper row justc-center alitems-center pd-xl m-column s-pdh-m" style="padding-top: 40px">
       <div class="hero-image-wrapper row justc-center alitems-center mgr-l m-mgr-0 m-mgb-l">
         <div class="hero-image">
@@ -33,9 +34,14 @@ layout: landing
     <div class="column justc-center mgt-s m-mgt-0">
         <a class="button white aliself-start m-aliself-center" href="{{ page.hero.call_to_action.url }}">{{ page.hero.call_to_action.text }}</a>
     </div>
+
   </div>
 
   <div class="timeline row justc-center pdv-l">
+    <div class="timeline-wrapper" >
+    {% include google-search.html %}
+    </div>
+
     <div class="timeline-wrapper">
       <div class="mx-auto feature-card">
         <div class="row alitems-center">
@@ -55,7 +61,8 @@ layout: landing
                       <path d="M20 4a2 2 0 0 0-2-2h-2V1a1 1 0 0 0-2 0v1h-3V1a1 1 0 0 0-2 0v1H6V1a1 1 0 0 0-2 0v1H2a2 2 0 0 0-2 2v2h20V4ZM0 18a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8H0v10Zm5-8h10a1 1 0 0 1 0 2H5a1 1 0 0 1 0-2Z"/>
                     </svg>
                   </span>
-                  <h3 class="flex items-center mb-1 text-lg font-semibold" style="color: rgb(11,29,55)">{{ event.title }}
+                  
+                  <h3 class="flex items-center mb-1 text-lg font-semibold" style="color: rgb(11,29,55); padding-left: 30px;">{{ event.title }}
                   {% if event.next == true %}
                     <span class="bg-blue-100 text-blue-600 text-sm font-medium me-2 px-2.5 py-0.5 rounded ms-3">Next</span>
                   {% endif %}
@@ -73,9 +80,7 @@ layout: landing
   </div>
 
   <div class="features row justc-center pdv-l">
-    <div class="content-wrapper column alitems-stretch">
-      
-      {% include google-search.html %}
+    <div class="content-wrapper column alitems-stretch">  
 
       <div class="feature-card column mgb-s alitems-start">
         <div class="row alitems-center mgb-xs">
