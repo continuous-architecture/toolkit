@@ -1,7 +1,7 @@
 logo-url: /
 socialLinks:
   - icon: github-logo.svg
-    url: https://github.com/michelin/Continuous-Architecture-Toolkit/
+    url: https://github.com/continuous-architecture/toolkit
   - icon: slack-logo.svg
     url: https://continuousarc-onh6387.slack.com/archives/C01C9MXJMGE
   - icon: twitter-logo.svg
@@ -12,11 +12,11 @@ links:
   - text: Manifesto
     url: /docs/manifest/manifesto.html
   - text: Join us
-    url: https://github.com/michelin/Continuous-Architecture-Toolkit/blob/master/governance/contributing.adoc
+    url: https://github.com/continuous-architecture/toolkit/blob/master/governance/contributing.md
   - text: Glossary
     url: /docs/glossary/glossary.html
   - text: License
-    url: https://github.com/michelin/Continuous-Architecture-Toolkit#license
+    url: https://github.com/continuous-architecture/toolkit#license
   - text: About us
     url: /about-us/index.html    
 
