@@ -19,18 +19,10 @@ hero:
     url: /docs/start-your-journey/start-your-journey.html
 timeline:
   events:
-    - title: How France Travail re-invented its architecture practices
-      time: "14th, March 2025 / 12 pm - 1pm"
-      location: Webinar
-      url: https://www.linkedin.com/events/commentfrancetravailr-inventese7297663805784743936/about/
-    - title: How to navigate Complexity with Naval Group
-      time: "28th, March 2025 / 1 pm - 2pm"
-      location: Webinar
-      url: https://www.linkedin.com/events/naviguerencomplexite7303037022653300738/about/
-    - title: Continuous Architecture sharing day
+    - title: Professionalization of Architectural Practice: A Sharing Day
       time: "20th, May 2025 / Full day"
-      location: Location to be announced
-      url: https://www.linkedin.com/company/continuous-architecture/      
+      location: Paris Val de Fontenay – Site des dunes - Société Générale
+      url: https://www.linkedin.com/events/journ-edeprofessionalisationdel7307808371678588928/comments/      
     - title: SRE and Architecture
       time: "24th, June 2025 / Full day"
       location: Location to be announced
