@@ -112,7 +112,7 @@ layout: landing
                   <time class="block mb-1 text-base font-normal leading-none text-gray-700">{{ event.time }}</time>
                   <p class="block mb-2 text-base font-normal leading-none text-gray-700">{{ event.location}}</p>
                   {% if event.details %} <p class="mb-1 text-base font-normal text-gray-500">{{ event.details }}</p> {% endif %}
-                  <a class="block no-underline text-blue-600 text-sm font-normal" href="{{ event.url }}">Details →</a>
+                  <a class="block no-underline text-blue-600 text-sm font-normal" target="_blank" href="{{ event.url }}">Details →</a>
               </li>
         {% endfor %}
             </ol>
