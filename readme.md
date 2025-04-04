@@ -17,6 +17,13 @@ We aim to make contributing to Continuous Architecture Toolkit a pleasant and en
 
 Check out our [Governance](governance/governance.md) for information on how to get involved.
 
+# Supporting us
+
+We're a collective of enthusiast architects and open source lovers eager to transform software architecture. We're organizing physical events or digital ones that require some fundings from time to time. Our intent is not to make money, just covering up our expenses. If you want to support us, you can do it [here](https://opencollective.com/continuous-architecture-toolkit).
+
+Thank you :pray:
+
+
 # Building the Continuous Architecture website on your machine
 
 The [Continuous Architecture landing page](https://continuous-architecture.org) is built with [Jekyll](https://jekyllrb.com), the content with [Asciidoctor](https://asciidoctor.org) and we embed some [Tailwind](https://tailwindcss.com/) UI components.
