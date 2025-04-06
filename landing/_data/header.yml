@@ -8,6 +8,8 @@ socialLinks:
     url: https://twitter.com/ContinuousArch
   - icon: linkedin-logo.svg
     url: https://www.linkedin.com/company/continuous-architecture/about/?viewAsMember=true    
+  - icon: sponsor.svg
+    url: https://opencollective.com/continuous-architecture-toolkit 
 links:
   - text: Manifesto
     url: /docs/manifest/manifesto.html
@@ -18,5 +20,4 @@ links:
   - text: License
     url: https://github.com/continuous-architecture/toolkit#license
   - text: About us
-    url: /about-us/index.html    
-
+    url: /about-us/index.html
