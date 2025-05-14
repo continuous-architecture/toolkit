@@ -1,0 +1,72 @@
+############# French navigation ##############
+
+# main menu
+[[main]]
+name = "Manifesto"
+url = "/manifesto"
+weight = 1
+
+[[main]]
+name = "Framework"
+url = "/framework"
+weight = 2
+
+[[main]]
+parent = "Framework"
+name = "Framework"
+url = "/framework"
+weight = 1
+
+[[main]]
+parent = "Framework"
+name = "Rôles"
+url = "/roles"
+weight = 2
+
+[[main]]
+parent = "Framework"
+name = "Rituels"
+url = "/rituals"
+weight = 3
+
+[[main]]
+parent = "Framework"
+name = "Practiques"
+url = "/practices"
+weight = 4
+
+[[main]]
+name = "Glossaire"
+url = "/glossary"
+weight = 3
+
+[[main]]
+name = "A propos"
+url = "/authors"
+weight = 4
+
+[[main]]
+name = "Blog"
+url = "/blog"
+weight = 5
+
+# footer menu
+[[footer]]
+name = "Gouvernance"
+url = "/governance"
+weight = 1
+
+[[footer]]
+name = "Politique de vie privée"
+url = "/privacy-policy"
+weight = 2
+
+[[footer]]
+name = "Nous supporter ❤️"
+url = "https://opencollective.com/continuous-architecture-toolkit"
+weight = 3
+
+[[footer]]
+name = "Tags"
+url = "/tags"
+weight = 5

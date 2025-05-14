@@ -1,0 +1,68 @@
+
+![Continuous Architecture Logo](./assets/images/logo-blanc.png)
+
+# Purpose
+
+The Continuous Architecture toolkit offers guiding ideas, practices, rituals and methods. Unlike most existing enterprise architecture or agile at scale frameworks, Continuous Architecture:
+
+* Starts from your problems instead of promoting generic organizational or architecture models
+* Operationalizes the shift from project to product
+* Leverages the power of modern software engineering practices
+* Is truly open
+
+# Gouvernance
+
+We aim to make contributing to Continuous Architecture Toolkit a pleasant and enriching experience for all participants, and we welcome contributions of all kinds. Anyone can contribute to the project, regardless of their skills.
+
+Check out our [Governance](content/english/governance/_index.md) for information on how to get involved.
+
+# Supporting us
+
+We're a collective of enthusiast architects and open source lovers eager to transform software architecture. We're organizing physical events or digital ones that require some fundings from time to time. Our intent is not to make money, just covering up our expenses. If you want to support us, you can do it [here](https://opencollective.com/continuous-architecture-toolkit).
+
+Thank you :pray:
+
+# Building the Continuous Architecture website on your machine
+
+The [Continuous Architecture toolkit](https://continuous-architecture.org) is built with [Hugo](https://gohugo.io) base on the template [Hugoplate](https://github.com/zeon-studio/hugoplate), the content with and we embed some [Tailwind](https://tailwindcss.com/) UI components.
+
+## MacOS
+
+Before being able to generate locally the website, you need to install a couple of pre-requisites
+
+* Hugo `brew install hugo`
+* NodeJS & NPM: `brew install node`
+
+Then clone the repository
+
+* http : `git clone https://github.com/continuous-architecture/toolkit.git`
+* SSH : `git clone git@github.com:continuous-architecture/toolkit.git`
+
+Finally, run the below command to
+
+* either build `npm run build`. It will generate the files in the **public** directory
+* or serve your website locally `npm run dev`. It will allow you to view the generated website in your browser [127.0.0.1:1313](http://127.0.0.1:1313)
+
+# License
+
+Continuous architecture materials are distributed under [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) apart from some illustrations which are distributed under [Ceative
+Common Attribution ShareAlike 4.0 International License (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/).
+
+# Maintainers
+
+Continuous architecture toolkit was initially developed by [Thierry Fraudet](mailto:thierry.fraudet@michelin.com) & [Olivier Jauze](mailto:ojauze@gmail.com) from Michelin and by [Nicolas Chevalier](mailto:nch.nicolas.chevalier@gmail.com) from Gluendo to setup an agile architecture operating model and to support the Michelin digital journey.
+
+They were quickly joined by a group of enthusiasts from DXC, Société Générale, France Travail, Thales Group and others, sharing the same ideas about the evolution of architecture in the world of information system design and this project is now maintained by the following core group of people:
+
+* [Frédéric Lé, youragileway.com](mailto:fle@youragileway.com)
+* [Corentin Moussard, Graphic Designer](mailto:corentin.moussard@gmail.com)
+* [Jerome Regnier, Société Générale](mailto:jerome.regnier@socgen.com)
+* [Jérémie Grodziski,Adixe](mailto:jeremie@grodziski.com)
+* [Romain Chapon,Michelin](mailto:romain.chapon@michelin.com)
+* [Yoni Boukhobza,Société Générale](mailto:yoni.boukhobza@socgen.com)
+* [Celia Carceller Kemiche, France Travail](mailto:celia.carceller-kemiche@pole-emploi.fr)
+* [François Bivaud](mailto:francois.bivaud@pole-emploi.fr)
+* [Gael Herent](mailto:gael.herent@thalesgroup.com)
+* [Olivier Trantoul](olivier.trantoul@thalesgroup.com)
+
+note: sadly, Jean-Marc Bunouf passed away before the first MVP of our open source project. Even thought he couldn't make it to the end, Jean-Marc greatly contributed to our project and we're all very thankfull to him.

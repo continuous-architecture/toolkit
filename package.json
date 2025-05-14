@@ -1,0 +1,25 @@
+{
+  "name": "continuous-architecture-tookit",
+  "description": "Continuous Architecture Website",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "",
+  "scripts": {
+    "dev": "hugo server --disableFastRender",
+    "build": "hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",
+    "preview": "hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic -e production --minify",
+    "update-modules": "node ./scripts/clearModules.js && hugo mod clean --all && hugo mod get -u ./... && hugo mod tidy",
+    "remove-darkmode": "node ./scripts/removeDarkmode.js && yarn format",
+    "update-theme": "node ./scripts/themeUpdate.js",
+    "format": "prettier -w ."
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.4",
+    "@tailwindcss/forms": "^0.5.10",
+    "@tailwindcss/typography": "^0.5.16",
+    "prettier": "^3.5.3",
+    "prettier-plugin-go-template": "0.0.15",
+    "prettier-plugin-tailwindcss": "^0.6.11",
+    "tailwindcss": "^4.1.4"
+  }
+}
