@@ -1,7 +1,7 @@
 ---
 title: "Banking Case Study"
-meta_title: ""
-description: "this is meta description"
+meta_title: "Banking Case Study – Applying Continuous Architecture Practices"
+description: "A banking case study used to illustrate Continuous Architecture practices by analyzing the IT systems of multiple brands within a European financial group."
 date: 2021-07-04T05:00:00Z
 image: "./images/blog/banking-case/uni-IT-landscape.png"
 categories: ["case studies"]
@@ -9,7 +9,6 @@ author: "Frédéric Lé"
 tags: []
 draft: false
 ---
-
 
 ## Introduction
 

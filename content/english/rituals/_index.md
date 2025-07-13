@@ -1,7 +1,7 @@
 ---
 title: "Rituals"
-meta_title: "Rituals"
-description: "this is meta description"
+meta_title: "Rituals – Embedding Architecture into the Team's Daily Practice"
+description: "Continuous Architecture rituals create regular team ceremonies to align intentional architecture with emerging design. Inspired by Agile, they help teams practice architecture collaboratively."
 draft: false
 image: "images/rituals/rituals.png"
 ---

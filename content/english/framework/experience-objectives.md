@@ -1,10 +1,7 @@
 ---
 title: "Experience Objectives"
-# meta title
-meta_title: ""
-# meta description
-description: "This is meta description"
-# save as draft
+meta_title: "Experience Objectives – Understanding Real User Needs"
+description: "Learn how to apply the Jobs-To-Be-Done approach and Design Thinking to identify and analyze customer needs, guiding product strategy through real user insight and iterative learning."
 draft: false
 ---
 
@@ -19,7 +16,36 @@ A paper published in the Harvard Business Review [^2] observes:
 
 The Experience Objectives view provides a template to analyze customers' JTBD, see below:
 
-![image](./images/framework/jtbd-example.svg)
+### Job to be Done: Move Money
+
+### Job Performer (Who): The person doing the main job, the end user
+
+* A treasurer managing working capital
+
+### Jobs (What): What the performer wants to achieve
+
+* **Main job**: Move money to meet working capital financing needs  
+* **Related jobs**: Manage accounts, perform account netting  
+* **Emotional/social job**: Ensure that unmet financial needs don’t slow down the company’s growth  
+
+### Stages (How): The steps to get the job done
+
+1. Forecast cash flows  
+2. Initiate transactions  
+3. Reconcile transactions  
+4. Clear and settle actions  
+5. Report transactions  
+
+### Needs (Why): Requirements or desired outcomes during the process
+
+* Lower the cost of financial operations  
+* Reduce foreign exchange risks  
+* Minimize administrative burden  
+
+### Circumstances (When/Where): The context around the job
+
+* Treasurers have varying levels of financial expertise  
+* Financing needs vary by industry, market segment, and geography  
 
 We recommend using Design Thinking to conduct the iterative learning process that verifies customer hypothesis though prototyping and experimentation.
 

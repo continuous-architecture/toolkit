@@ -1,10 +1,7 @@
 ---
 title: "Enterprise Decomposition"
-# meta title
-meta_title: ""
-# meta description
-description: "This is meta description"
-# save as draft
+meta_title: "Enterprise Decomposition – Structuring a Complex System"
+description: "Learn how to model an enterprise as a hierarchical system of Operating Units and how this decomposition interacts with other views of the Continuous Architecture Framework."
 draft: false
 ---
 

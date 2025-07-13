@@ -1,7 +1,7 @@
 ---
 title: "Value Stream"
-meta_title: "Value Stream"
-description: "this is meta description"
+meta_title: "Value Stream – From Idea to Delivery"
+description: "A value stream includes all steps—both value-creating and non-value-creating—required to complete a product or service from start to finish."
 draft: false
 ---
 

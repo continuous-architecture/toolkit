@@ -1,7 +1,7 @@
 ---
 title: "Modularity"
-meta_title: "Modularity"
-description: "this is meta description"
+meta_title: "Modularity – Product and Software Architecture"
+description: "Modularity refers to an architecture in which each component fulfills a clear function and interacts through well-defined interfaces. It enables independent design and changes, making systems more adaptable and maintainable, whether in physical products or software."
 draft: false
 ---
 

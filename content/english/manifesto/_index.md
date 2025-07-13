@@ -1,10 +1,9 @@
 ---
 title: "Continuous Architecture Manifesto"
-meta_title: ""
-description: "This is meta description"
+meta_title: "Continuous Architecture Manifesto"
+description: "This manifesto outlines the core beliefs and principles of Continuous Architecture — a modern, product-centric approach to architecture aligned with continuous delivery and sustainable evolution."
 draft: false
 ---
-
 
 This Continuous Architecture manifesto aims to provide a clear set of beliefs and principles for our architecture operating model. It is not an attempt to compete with other famous existing manifestos (e.g. https://agilemanifesto.org[Agile Manifesto], https://www.reactivemanifesto.org[Reactive Manifesto]). It conveys a shift from a traditional waterfall approach with big designs up front to a continuous runway mindset.
 

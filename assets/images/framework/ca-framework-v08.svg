@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="591px"
-    height="317px" viewBox="-0.5 -0.5 591 317"
+    height="317px" viewBox="-25 -25 641 367"
     content="&lt;mxfile host=&quot;Electron&quot; modified=&quot;2021-06-17T15:35:21.030Z&quot; agent=&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/14.5.1 Chrome/89.0.4389.82 Electron/12.0.1 Safari/537.36&quot; etag=&quot;Xcx5QwJxqJYp9Oh_Jtb4&quot; version=&quot;14.5.1&quot; type=&quot;device&quot;&gt;&lt;diagram id=&quot;oleODZObT-phLhImwJWt&quot; name=&quot;Page-1&quot;&gt;7Zpbc+o2EIB/DY9kLMs29iMhQM+0aTpNZjJzXjoCK0YcY1FZ3PLrK9ky2JZISY4NyRx4SGAl+bLf7mp37Q4cLLZjhpazexriuGNb4bYD7zq2DSzbEf+kZJdL3MDOBREjoZp0EDySV1ysVNIVCXFamcgpjTlZVoVTmiR4yisyxBjdVKe90Lh61iWKsCZ4nKJYlz6TkM+UFHjBYeA3TKKZOrVv9/KBBSomqztJZyikm5IIDjtwwCjl+bfFdoBjqbxCL/m60ZHR/YUxnPBTFvQnfbhdD8euM0b99cPv86c//uyqo6xRvFI3rC6W7woNMLpKQiwPAjrwdjMjHD8u0VSObgRzIZvxRayGX2jCBzSmLFsLX7KPkKec0R+4NGJZwPFduYLEcUVuWc6dkK8x40Rw6MckSsTYgoShvKRb/b6LmxAr8LYkUnoYY7rAnO3EFDXqKyTKJoG4kOz3pkS4wDYrwXXUPKSMKtof+aB38UWp/h0YbA3DMOGYLRlJsZDf4SldLGlKOKGJBkjcNK9SqGo7oQmuKVqJkNLtFMuzvaV0E/aDYViK/KO6KFj8zt0ZOLpljLJPMziBVeMZBDc6Ud8AFPRaAgp0om84lvVux5Ju4nm6++zVanA4y3J7zSjcDnpVhduepm7Yg7q+bddqS+GOQeFezJXqsh2i0IX370oG3dtDgCqJSoQKoTxAN81suS8mAGe5zaYeFnmR/P8Xo+FK7EHqvOI+8lPnoz8XWN8IoEcsg1GOsnih/FOPs5k5mPz04Mc/bysQ1GzF1W0FeAbfhK2Zint5U3lYYpbRST+ptdSt4sgu3bS1OH7VWmx4cWvxzmstmqk84eksEaeIdldTqQQWu7rr7wNNeRMqsvHzmErvwqYy3IqwQnAylUnjw2QuCiKyxtcQ8+aGVESTy0WYQDObbyIfT6SuUFzAm7CCW59NJZopXzH8mYuB48l/EEi6DeWidi2/MPB0DDjttnAWmX65mFtgFuGE6yzvcCqVe6UI/dq+rxdwZ6UITZ2Rc8byBxahhLzmEfMawI93b0z7vrF701oAh6aCooYmnaGl/BrS1STGfdmZFKoJCZN7dKbSlK7k5X8Amzfsj/7fXfe9uBonMEEA2w11YmCVjQ2hxsaExgdtoTGlZEfQpCSJDmg+juGIek/F00Q0rTfEfL2KCjwdA/DbwqCnOJ8dQynYdYHf1DZngap/AHBZMI6+zX1LxP1kbecBTTZIXv09SvBKSK95CnCCKkCDZ4HiMcFZEhXnhE7zJ3atoCEwjuUVPf8i6BUt4RIa1z+nb8GvTKYpMLBen10ci56t7Rv3I71Cu0fsBzZUbiMii4AOHF2DIuzVEFu+hvisxZtj6tl+Gc+DbkMh0Qc3PadKJrBvDOWSb3hU157/+V8ZThc4TkNeE1TZ2EBPJc4LRk/SB2iJJiQmfKcHwLHQ/zUA5p7m1spey7DHnTMAFie7diS09CPQvczUkQCgNTYnvHP1a7Bx627T06th42tYraHRa6lhggSBVEY620MLqd78r+G5zCpaZE3+Xz0cQqf2EN8z7Gwmrl5bXPVK7Mr1A9tcr85Vz/Pb4srH8wnbOPPn7/+8/r15tp7mwO6+o8A+Hkk3OOWXD6QaBQOrk9uKsFBEua1oeh3v/YFU/Dy8spyNlV78hsP/AA==&lt;/diagram&gt;&lt;/mxfile&gt;"
     style="background-color: rgb(255, 255, 255);">
     <defs />
     <g>
     <a xlink:href="./enterprise-decomposition.html"
         target="_blank">
-        <rect x="0" y="125" width="120" height="45" rx="6.75" ry="6.75" fill="#00004d" stroke="#001485"
+        <rect x="0" y="125" width="120" height="45" rx="6.75" ry="6.75" fill="#222222" stroke="#001485"
             pointer-events="all" />
         <rect x="20" y="139.5" width="80" height="17" fill="none" stroke="none" pointer-events="all" />
         <g transform="translate(-0.5 -0.5)">
@@ -30,8 +30,8 @@
         </a>
         <a xlink:href="./product.html"
             target="_blank">
-        <rect x="217" y="66" width="373" height="250" fill="#ffffff" stroke="#000057" pointer-events="all" />
-        <rect x="237" y="96" width="160" height="30" rx="4.5" ry="4.5" fill="#000057" stroke="#001485"
+        <rect x="217" y="66" width="373" height="250" fill="#ffffff" stroke="#222222" pointer-events="all" />
+        <rect x="237" y="96" width="160" height="30" rx="4.5" ry="4.5" fill="#222222" stroke="#001485"
             pointer-events="all" />
         <g transform="translate(-0.5 -0.5)">
             <switch>
@@ -41,19 +41,19 @@
                         style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 111px; margin-left: 238px;">
                         <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
                             <div
-                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #000066; line-height: 1.2; pointer-events: all; font-weight: bold; font-style: italic; white-space: normal; word-wrap: normal; ">
+                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #444444; line-height: 1.2; pointer-events: all; font-weight: bold; font-style: italic; white-space: normal; word-wrap: normal; ">
                                 <font color="#ffffff" style="font-size: 14px">Product</font>
                             </div>
                         </div>
                     </div>
-                </foreignObject><text x="317" y="115" fill="#000066" font-family="Helvetica" font-size="14px"
+                </foreignObject><text x="317" y="115" fill="#444444" font-family="Helvetica" font-size="14px"
                     text-anchor="middle" font-weight="bold" font-style="italic">Product</text>
             </switch>
         </g>
         </a>
         <a xlink:href="./operations.html"
             target="_blank">
-        <rect x="407" y="176" width="160" height="30" rx="4.5" ry="4.5" fill="#00004d" stroke="#001485"
+        <rect x="407" y="176" width="160" height="30" rx="4.5" ry="4.5" fill="#222222" stroke="#001485"
             pointer-events="all" />
         <g transform="translate(-0.5 -0.5)">
             <switch>
@@ -63,19 +63,19 @@
                         style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 191px; margin-left: 408px;">
                         <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
                             <div
-                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #000066; line-height: 1.2; pointer-events: all; font-weight: bold; font-style: italic; white-space: normal; word-wrap: normal; ">
+                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #444444; line-height: 1.2; pointer-events: all; font-weight: bold; font-style: italic; white-space: normal; word-wrap: normal; ">
                                 <font color="#ffffff" style="font-size: 14px">Operations</font>
                             </div>
                         </div>
                     </div>
-                </foreignObject><text x="487" y="195" fill="#000066" font-family="Helvetica" font-size="14px"
+                </foreignObject><text x="487" y="195" fill="#444444" font-family="Helvetica" font-size="14px"
                     text-anchor="middle" font-weight="bold" font-style="italic">Operations</text>
             </switch>
         </g>
         </a>
         <a xlink:href="./technology.html"
 	        target="_blank">
-        <rect x="240" y="257" width="327" height="30" rx="4.5" ry="4.5" fill="#00004d" stroke="#001485"
+        <rect x="240" y="257" width="327" height="30" rx="4.5" ry="4.5" fill="#222222" stroke="#001485"
             pointer-events="all" />
         <g transform="translate(-0.5 -0.5)">
             <switch>
@@ -85,19 +85,19 @@
                         style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 325px; height: 1px; padding-top: 272px; margin-left: 241px;">
                         <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
                             <div
-                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #000066; line-height: 1.2; pointer-events: all; font-weight: bold; font-style: italic; white-space: normal; word-wrap: normal; ">
+                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #444444; line-height: 1.2; pointer-events: all; font-weight: bold; font-style: italic; white-space: normal; word-wrap: normal; ">
                                 <font color="#ffffff" style="font-size: 14px">Technology</font>
                             </div>
                         </div>
                     </div>
-                </foreignObject><text x="404" y="276" fill="#000066" font-family="Helvetica" font-size="14px"
+                </foreignObject><text x="404" y="276" fill="#444444" font-family="Helvetica" font-size="14px"
                     text-anchor="middle" font-weight="bold" font-style="italic">Technology</text>
             </switch>
         </g>
         </a>
         <a xlink:href="./experience-objectives.html"
 	        target="_blank">
-        <rect x="237" y="0" width="160" height="30" rx="4.5" ry="4.5" fill="#00004d" stroke="#001485"
+        <rect x="237" y="0" width="160" height="30" rx="4.5" ry="4.5" fill="#222222" stroke="#001485"
             pointer-events="all" />
         <g transform="translate(-0.5 -0.5)">
             <switch>
@@ -107,12 +107,12 @@
                         style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 15px; margin-left: 238px;">
                         <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
                             <div
-                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #000066; line-height: 1.2; pointer-events: all; font-weight: bold; font-style: italic; white-space: normal; word-wrap: normal; ">
+                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #444444; line-height: 1.2; pointer-events: all; font-weight: bold; font-style: italic; white-space: normal; word-wrap: normal; ">
                                 <font color="#ffffff" style="font-size: 14px">Experience Objectives</font>
                             </div>
                         </div>
                     </div>
-                </foreignObject><text x="317" y="19" fill="#000066" font-family="Helvetica" font-size="14px"
+                </foreignObject><text x="317" y="19" fill="#444444" font-family="Helvetica" font-size="14px"
                     text-anchor="middle" font-weight="bold" font-style="italic">Experience Objectives</text>
             </switch>
         </g>
@@ -126,11 +126,11 @@
                         style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 110px; margin-left: 148px;">
                         <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
                             <div
-                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #990000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #444444; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                                 Intentional<br />Architecture</div>
                         </div>
                     </div>
-                </foreignObject><text x="167" y="114" fill="#990000" font-family="Helvetica" font-size="14px"
+                </foreignObject><text x="167" y="114" fill="#444444" font-family="Helvetica" font-size="14px"
                     text-anchor="middle">Intent...</text>
             </switch>
         </g>
@@ -143,17 +143,17 @@
                         style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 185px; margin-left: 159px;">
                         <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
                             <div
-                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #990000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #444444; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                                 Emergent<br />Design</div>
                         </div>
                     </div>
-                </foreignObject><text x="178" y="189" fill="#990000" font-family="Helvetica" font-size="14px"
+                </foreignObject><text x="178" y="189" fill="#444444" font-family="Helvetica" font-size="14px"
                     text-anchor="middle">Emerge...</text>
             </switch>
         </g>
         <a xlink:href="./organization.html"
             target="_blank">
-        <rect x="0" y="257" width="120" height="30" rx="4.5" ry="4.5" fill="#00004d" stroke="#001485"
+        <rect x="0" y="257" width="120" height="30" rx="4.5" ry="4.5" fill="#222222" stroke="#001485"
             pointer-events="all" />
         <g transform="translate(-0.5 -0.5)">
             <switch>
@@ -163,24 +163,24 @@
                         style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 272px; margin-left: 1px;">
                         <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
                             <div
-                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #000066; line-height: 1.2; pointer-events: all; font-weight: bold; font-style: italic; white-space: normal; word-wrap: normal; ">
+                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #444444; line-height: 1.2; pointer-events: all; font-weight: bold; font-style: italic; white-space: normal; word-wrap: normal; ">
                                 <font color="#ffffff" style="font-size: 14px">Organization</font>
                             </div>
                         </div>
                     </div>
-                </foreignObject><text x="60" y="276" fill="#000066" font-family="Helvetica" font-size="14px"
+                </foreignObject><text x="60" y="276" fill="#444444" font-family="Helvetica" font-size="14px"
                     text-anchor="middle" font-weight="bold" font-style="italic">Organization</text>
             </switch>
         </g>
         </a>
         <path
             d="M 19.5 213.5 L 35.7 203.5 L 35.7 210.5 L 84.3 210.5 L 84.3 203.5 L 100.5 213.5 L 84.3 223.5 L 84.3 216.5 L 35.7 216.5 L 35.7 223.5 Z"
-            fill="#1ba1e2" stroke="#006eaf" stroke-miterlimit="10" transform="rotate(90,60,213.5)"
+            fill="#EEEEEE" stroke="#444444" stroke-miterlimit="10" transform="rotate(90,60,213.5)"
             pointer-events="all" />
-        <path d="M 120 132.3 L 196.8 132.3 L 196.8 126 L 216 135 L 196.8 144 L 196.8 137.7 L 120 137.7 Z" fill="#1ba1e2"
-            stroke="#006eaf" stroke-miterlimit="10" pointer-events="all" />
-        <path d="M 121 157.3 L 197.8 157.3 L 197.8 151 L 217 160 L 197.8 169 L 197.8 162.7 L 121 162.7 Z" fill="#1ba1e2"
-            stroke="#006eaf" stroke-miterlimit="10" transform="rotate(-180,169,160)" pointer-events="all" />
+        <path d="M 120 132.3 L 196.8 132.3 L 196.8 126 L 216 135 L 196.8 144 L 196.8 137.7 L 120 137.7 Z" fill="#EEEEEE"
+            stroke="#444444" stroke-miterlimit="10" pointer-events="all" />
+        <path d="M 121 157.3 L 197.8 157.3 L 197.8 151 L 217 160 L 197.8 169 L 197.8 162.7 L 121 162.7 Z" fill="#EEEEEE"
+            stroke="#444444" stroke-miterlimit="10" transform="rotate(-180,169,160)" pointer-events="all" />
         <rect x="69" y="226" width="145" height="20" fill="none" stroke="none" pointer-events="all" />
         <g transform="translate(-0.5 -0.5)">
             <switch>
@@ -190,18 +190,18 @@
                         style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 143px; height: 1px; padding-top: 236px; margin-left: 70px;">
                         <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
                             <div
-                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #990000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #444444; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                                 Inverse Conway Maneuver</div>
                         </div>
                     </div>
-                </foreignObject><text x="142" y="240" fill="#990000" font-family="Helvetica" font-size="14px"
+                </foreignObject><text x="142" y="240" fill="#444444" font-family="Helvetica" font-size="14px"
                     text-anchor="middle">Inverse Conway Maneuv...</text>
             </switch>
         </g>
-        <path d="M 326.5 60.3 L 372.9 60.3 L 372.9 54 L 384.5 63 L 372.9 72 L 372.9 65.7 L 326.5 65.7 Z" fill="#1ba1e2"
-            stroke="#006eaf" stroke-miterlimit="10" transform="rotate(-90,355.5,63)" pointer-events="all" />
-        <path d="M 247 60.3 L 293.4 60.3 L 293.4 54 L 305 63 L 293.4 72 L 293.4 65.7 L 247 65.7 Z" fill="#1ba1e2"
-            stroke="#006eaf" stroke-miterlimit="10" transform="rotate(90,276,63)" pointer-events="all" />
+        <path d="M 326.5 60.3 L 372.9 60.3 L 372.9 54 L 384.5 63 L 372.9 72 L 372.9 65.7 L 326.5 65.7 Z" fill="#EEEEEE"
+            stroke="#444444" stroke-miterlimit="10" transform="rotate(-90,355.5,63)" pointer-events="all" />
+        <path d="M 247 60.3 L 293.4 60.3 L 293.4 54 L 305 63 L 293.4 72 L 293.4 65.7 L 247 65.7 Z" fill="#EEEEEE"
+            stroke="#444444" stroke-miterlimit="10" transform="rotate(90,276,63)" pointer-events="all" />
         <rect x="297" y="48" width="40" height="20" fill="none" stroke="none" pointer-events="all" />
         <g transform="translate(-0.5 -0.5)">
             <switch>
@@ -211,20 +211,20 @@
                         style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 58px; margin-left: 298px;">
                         <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
                             <div
-                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #990000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #444444; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                                 Product/<br />Market<br />Fit ?</div>
                         </div>
                     </div>
-                </foreignObject><text x="317" y="62" fill="#990000" font-family="Helvetica" font-size="14px"
+                </foreignObject><text x="317" y="62" fill="#444444" font-family="Helvetica" font-size="14px"
                     text-anchor="middle">Produc...</text>
             </switch>
         </g>
         <path
             d="M 401.74 138.47 L 468.14 138.47 L 468.14 132.17 L 484.74 141.17 L 468.14 150.17 L 468.14 143.87 L 401.74 143.87 Z"
-            fill="#1ba1e2" stroke="#006eaf" stroke-miterlimit="10" transform="rotate(35,443.24,141.17)"
+            fill="#EEEEEE" stroke="#444444" stroke-miterlimit="10" transform="rotate(35,443.24,141.17)"
             pointer-events="all" />
-        <path d="M 314 162.3 L 380.4 162.3 L 380.4 156 L 397 165 L 380.4 174 L 380.4 167.7 L 314 167.7 Z" fill="#1ba1e2"
-            stroke="#006eaf" stroke-miterlimit="10" transform="rotate(-144,355.5,165)" pointer-events="all" />
+        <path d="M 314 162.3 L 380.4 162.3 L 380.4 156 L 397 165 L 380.4 174 L 380.4 167.7 L 314 167.7 Z" fill="#EEEEEE"
+            stroke="#444444" stroke-miterlimit="10" transform="rotate(-144,355.5,165)" pointer-events="all" />
         <rect x="370" y="144" width="50" height="20" fill="none" stroke="none" pointer-events="all" />
         <g transform="translate(-0.5 -0.5)">
             <switch>
@@ -234,19 +234,19 @@
                         style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 48px; height: 1px; padding-top: 154px; margin-left: 371px;">
                         <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
                             <div
-                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #990000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #444444; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                                 Capability<br />Gap ?</div>
                         </div>
                     </div>
-                </foreignObject><text x="395" y="158" fill="#990000" font-family="Helvetica" font-size="14px"
+                </foreignObject><text x="395" y="158" fill="#444444" font-family="Helvetica" font-size="14px"
                     text-anchor="middle">Capabil...</text>
             </switch>
         </g>
         <path d="M 202 191 L 224 181 L 224 188 L 290 188 L 290 181 L 312 191 L 290 201 L 290 194 L 224 194 L 224 201 Z"
-            fill="#1ba1e2" stroke="#006eaf" stroke-miterlimit="10" transform="rotate(90,257,191)"
+            fill="#EEEEEE" stroke="#444444" stroke-miterlimit="10" transform="rotate(90,257,191)"
             pointer-events="all" />
         <path d="M 460 231 L 468 221 L 468 228 L 492 228 L 492 221 L 500 231 L 492 241 L 492 234 L 468 234 L 468 241 Z"
-            fill="#1ba1e2" stroke="#006eaf" stroke-miterlimit="10" transform="rotate(90,480,231)"
+            fill="#EEEEEE" stroke="#444444" stroke-miterlimit="10" transform="rotate(90,480,231)"
             pointer-events="all" />
         <rect x="267" y="206" width="80" height="46" fill="none" stroke="none" pointer-events="all" />
         <g transform="translate(-0.5 -0.5)">
@@ -257,11 +257,11 @@
                         style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 229px; margin-left: 268px;">
                         <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
                             <div
-                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #990000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #444444; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                                 Enables &amp;<br />Augment</div>
                         </div>
                     </div>
-                </foreignObject><text x="307" y="233" fill="#990000" font-family="Helvetica" font-size="14px"
+                </foreignObject><text x="307" y="233" fill="#444444" font-family="Helvetica" font-size="14px"
                     text-anchor="middle">Enables &amp;...</text>
             </switch>
         </g>
@@ -274,17 +274,17 @@
                         style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 231px; margin-left: 398px;">
                         <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
                             <div
-                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #990000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #444444; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                                 Enables &amp;<br />Augment</div>
                         </div>
                     </div>
-                </foreignObject><text x="437" y="235" fill="#990000" font-family="Helvetica" font-size="14px"
+                </foreignObject><text x="437" y="235" fill="#444444" font-family="Helvetica" font-size="14px"
                     text-anchor="middle">Enables &amp;...</text>
             </switch>
         </g>
         <path
             d="M 121 272 L 139.6 262 L 139.6 269 L 195.4 269 L 195.4 262 L 214 272 L 195.4 282 L 195.4 275 L 139.6 275 L 139.6 282 Z"
-            fill="#1ba1e2" stroke="#006eaf" stroke-miterlimit="10" transform="rotate(180,167.5,272)"
+            fill="#EEEEEE" stroke="#444444" stroke-miterlimit="10" transform="rotate(180,167.5,272)"
             pointer-events="all" />
     </g>
     <switch>

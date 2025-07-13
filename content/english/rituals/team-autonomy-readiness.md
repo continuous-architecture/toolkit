@@ -1,7 +1,7 @@
 ---
 title: "Team Autonomy Readiness"
-meta_title: "Rituals"
-description: "this is meta description"
+meta_title: "Team Autonomy Readiness Assessment"
+description: "Ritual to assess a team's ability to make architectural decisions autonomously while preserving the integrity of large-scale information systems."
 draft: false
 ---
 

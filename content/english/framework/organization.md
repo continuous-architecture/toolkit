@@ -1,10 +1,7 @@
 ---
 title: "Organizations"
-# meta title
-meta_title: ""
-# meta description
-description: "This is meta description"
-# save as draft
+meta_title: "Organization View – Aligning Team Structures with Target Architecture"
+description: "The Organization view of the CAF uses Operating Units, Team Topologies, and the Inverse Conway Maneuver to design a structure aligned with value delivery and optimized for cognitive load."
 draft: false
 ---
 

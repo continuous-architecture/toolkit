@@ -1,7 +1,7 @@
 ---
 title: "Event"
-meta_title: "Event"
-description: "this is meta description"
+meta_title: "Event – A Meaningful Change of State"
+description: "An event represents a state transition triggered by user interaction, external systems, time, or cascading effects. It’s a core concept in Domain-Driven Design and Event Storming."
 draft: false
 ---
 

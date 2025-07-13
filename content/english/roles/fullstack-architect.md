@@ -1,7 +1,7 @@
 ---
 title: "Fullstack architect"
-meta_title: "Roles"
-description: "this is meta description"
+meta_title: "Fullstack Architect Role"
+description: "Explore the responsibilities and scope of the Fullstack Architect, covering all technical layers to ensure sustainable, scalable, and operable product design."
 draft: false
 ---
 

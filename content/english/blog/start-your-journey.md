@@ -1,7 +1,7 @@
 ---
 title: "Start your journey"
-meta_title: ""
-description: "this is meta description"
+meta_title: "Start Your Transformation Journey with Continuous Architecture"
+description: "Explore bottom-up, top-down, and organic approaches to deploying Continuous Architecture across your organization, illustrated by Michelin’s real-world transformation."
 date: 2021-07-15T05:00:00Z
 image: "./images/blog/challenges.png"
 categories: ["Change Management"]

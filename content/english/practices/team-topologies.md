@@ -1,7 +1,7 @@
 ---
 title: "Team Topologies"
-meta_title: "Practices"
-description: "this is meta description"
+meta_title: "Team Topologies – Align Team Structure with Product Architecture"
+description: "Discover how to design team structures that match your architecture and accelerate flow, using the Team Topologies model and collaborative workshops tailored to your delivery context."
 draft: false
 ---
 

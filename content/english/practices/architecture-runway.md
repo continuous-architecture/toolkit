@@ -1,7 +1,7 @@
 ---
 title: "Architecture Runway"
-meta_title: "Practices"
-description: "this is meta description"
+meta_title: "Architecture Runway – Aligning Intentional and Emerging Design"
+description: "Use the Architecture Runway to balance intentional architecture and emerging design, enabling agile teams to build scalable, future-proof solutions."
 draft: false
 ---
 

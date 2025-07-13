@@ -1,7 +1,7 @@
 ---
 title: "Continuous Architecture Framework (CAF)"
-meta_title: ""
-description: "This is meta description"
+meta_title: "Continuous Architecture Framework (CAF) – A Model for the Product Era"
+description: "Explore the Continuous Architecture Framework (CAF), a six-view model to evolve your architecture operating model in line with agile, DevOps, and continuous delivery practices."
 draft: false
 image: "images/framework/framework.png"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Product architect"
-meta_title: "Roles"
-description: "this is meta description"
+meta_title: "Product Architect Role"
+description: "Discover the Product Architect's role in driving user-centric solutions, managing the architecture runway, and ensuring alignment between product strategy and technical design."
 draft: false
 ---
 

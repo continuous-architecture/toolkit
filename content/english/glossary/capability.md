@@ -1,7 +1,7 @@
 ---
 title: "Capability View"
-meta_title: "Capability View"
-description: "this is meta description"
+meta_title: "Capability View – What Your System Should Excel At"
+description: "The Capability View highlights what the enterprise’s operating system is—or should be—particularly good at to deliver value and sustain competitive advantage."
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Value Proposition Canvas"
-meta_title: "Practices"
-description: "this is meta description"
+meta_title: "Value Proposition Canvas – Fit your Product to Real User Needs"
+description: "A strategic tool to understand your users, address their pains, and deliver clear value through your product or service."
 draft: false
 ---
 

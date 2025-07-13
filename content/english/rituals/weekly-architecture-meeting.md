@@ -1,7 +1,7 @@
 ---
 title: "Weekly architecture meeting"
-meta_title: "Rituals"
-description: "this is meta description"
+meta_title: "Weekly Architecture Meeting"
+description: "A short and regular ritual to foster team dialogue around key architectural decisions and topics."
 draft: false
 ---
 

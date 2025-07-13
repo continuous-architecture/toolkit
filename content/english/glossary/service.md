@@ -1,7 +1,7 @@
 ---
 title: "Service"
-meta_title: "Service"
-description: "this is meta description"
+meta_title: "Service – Value Delivered Through Action"
+description: "A service is work performed by one party that benefits another. In technology, a service exposes capabilities through a defined interface, governed by policies and constraints specified in its description."
 draft: false
 ---
 

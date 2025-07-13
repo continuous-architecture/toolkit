@@ -1,10 +1,9 @@
 ---
 title: "Product"
-meta_title: "Product"
-description: "this is meta description"
+meta_title: "Product – Output of a Process or Production"
+description: "A product is something created through a process, farming, or manufacturing. It may be a good or a service, and can be either private or public—such as a public good or public service."
 draft: false
 ---
-
 
 Something produced by a process or that is grown or obtained through farming [^1].
 Products come in two forms:

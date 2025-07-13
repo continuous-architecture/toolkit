@@ -1,7 +1,7 @@
 ---
 title: "Why changing the way we architect our solutions?"
-meta_title: ""
-description: "this is meta description"
+meta_title: "Why We Need to Change the Way We Architect Our Solutions"
+description: "In a VUCA world, yesterday’s architecture methods no longer fit. Learn why adapting architecture to continuous delivery, agility, and decentralized decision-making is essential to remain resilient and scalable."
 date: 2021-07-21T05:00:00Z
 image: "/images/blog/yesterday.png"
 categories: ["Change Management"]

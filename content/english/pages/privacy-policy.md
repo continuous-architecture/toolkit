@@ -1,7 +1,7 @@
 ---
 title: "Privacy Policy"
-meta_title: "Privacy Policy"
-description: "Our simple and clear approach to your privacy."
+meta_title: "Privacy Policy – Your Privacy, Our Commitment"
+description: "We don’t collect personal data, use cookies, or track your behavior. Read our clear and simple privacy policy."
 draft: false
 ---
 

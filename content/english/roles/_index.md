@@ -1,7 +1,7 @@
 ---
 title: "Architect roles"
-meta_title: "Roles"
-description: "this is meta description"
+meta_title: "Architect Roles"
+description: "Understanding architecture roles in a Lean & Agile approach focused on product and team autonomy."
 draft: false
 image: "images/roles/roles.png"
 ---

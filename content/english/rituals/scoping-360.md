@@ -1,7 +1,7 @@
 ---
 title: "Rituals"
-meta_title: "Rituals"
-description: "this is meta description"
+meta_title: "Scoping 360 Architecture Workshop"
+description: "Collaborative workshop designed to progressively define product architecture within a 360° perspective. Focused on the next MVP, it balances intentional design, modularity, and operational readiness."
 draft: false
 ---
 

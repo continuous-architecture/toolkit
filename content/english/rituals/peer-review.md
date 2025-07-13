@@ -1,7 +1,7 @@
 ---
 title: "Peer Review"
-meta_title: "Rituals"
-description: "this is meta description"
+meta_title: "Peer Review – Improving Architecture Through Community Feedback"
+description: "Architecture peer review is a collaborative ritual offering safe, constructive feedback to improve design quality and explore alternative solutions through collective intelligence."
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Problem discovery"
-meta_title: ""
-description: "this is meta description"
+meta_title: "Problem Discovery – Finding and Reframing the Right Problems"
+description: "Learn how to uncover, clarify, and reframe the right problems using systems thinking, storytelling, and critical analysis to improve decision-making in agile teams."
 date: 2021-10-16T05:00:00Z
 categories: ["Problem discovery"]
 author: "Frédéric Lé"

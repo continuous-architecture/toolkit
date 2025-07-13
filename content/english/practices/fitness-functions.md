@@ -1,7 +1,7 @@
 ---
 title: "Fitness Functions"
-meta_title: "Practices"
-description: "this is meta description"
+meta_title: "Fitness Functions – Safeguard Architecture with Automated Checks"
+description: "Learn how to define and use Fitness Functions to preserve architectural characteristics and ensure continuous compliance with non-functional requirements."
 draft: false
 ---
 
@@ -37,7 +37,12 @@ The below figures illustrates the different type of fitness functions:
   * Software architects like things automated. Automated fitness functions execute within an automated context, while manual fitness functions, like legal requirements, defy automation.
   * Manual fitness functions are cases that require the verification of person-based process.
 
-Defining a fitness functions is then a 3 step inquiry process: what do you want to measure? how do you want to measure it? When do you want to measure it?
+## Defining a fitness functions is then a 3 step
+
+> what do you want to measure?
+> how do you want to measure it?
+> When do you want to measure it?
+
 The below image illustrates this practice and how to put in place in your team.
 
 ![image](./images/practices/kit-fitness-functions.jpeg)

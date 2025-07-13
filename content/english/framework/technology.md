@@ -1,10 +1,7 @@
 ---
 title: "Technology"
-# meta title
-meta_title: ""
-# meta description
-description: "This is meta description"
-# save as draft
+meta_title: "Technology View – Designing Sustainable, Scalable, and Adaptive Systems"
+description: "The Technology view of the CAF provides architectural principles to address legacy complexity, enable continuous delivery, and support modular, resilient, and future-ready digital systems."
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Intent"
-meta_title: "Intent"
-description: "this is meta description"
+meta_title: "Intent – Will, Form, or Concept"
+description: "Intent refers to an act of will, a defining form, or a concept shaped by the intellect. It carries multiple meanings depending on philosophical or practical context."
 draft: false
 ---
 

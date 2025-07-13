@@ -1,7 +1,7 @@
 ---
 title: "Public Service"
-meta_title: "Public Service"
-description: "this is meta description"
+meta_title: "Public Service – Serving the Common Good"
+description: "A public service refers to the delivery of essential services such as electricity, transportation, or healthcare to the community, either by the state or in the public interest."
 draft: false
 ---
 

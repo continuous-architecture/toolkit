@@ -1,7 +1,7 @@
 ---
 title: "Re-architecture our curing solution"
-meta_title: ""
-description: "this is meta description"
+meta_title: "Case Study – Re-architecting an Industrial Solution Using Domain Driven Design"
+description: "Explore how a tyre curing system was redesigned using Domain Driven Design practices—from event storming to bounded contexts and integration patterns—to improve modularity and team alignment."
 date: 2021-07-04T05:00:00Z
 image: "./images/blog/curing-domain/event_storming.png"
 categories: ["case studies"]

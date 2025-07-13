@@ -1,7 +1,7 @@
 ---
 title: "Good"
-meta_title: "Good"
-description: "this is meta description"
+meta_title: "Good – An Item of Economic Value"
+description: "In the product context, a good refers to something that has economic utility or satisfies a need. Goods can be tangible (e.g., physical items) or intangible (e.g., software, digital services)."
 draft: false
 ---
 

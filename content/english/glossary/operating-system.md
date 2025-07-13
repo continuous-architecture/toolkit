@@ -1,7 +1,7 @@
 ---
 title: "Operating System"
-meta_title: "Operating System"
-description: "this is meta description"
+meta_title: "Operating System – Business and Software Context"
+description: "In business, the operating system refers to the combination of assets and processes needed to deliver a product."
 draft: false
 ---
 

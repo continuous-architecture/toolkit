@@ -1,7 +1,7 @@
 ---
 title: "Problem"
-meta_title: "Problem"
-description: "this is meta description"
+meta_title: "Problem – Gap to Close and Frame to Challenge"
+description: "A problem is the gap between the current state and a desired future state. In Lean, it drives continuous improvement. In framing analysis, it’s essential to explore and challenge the initial framing to ensure you're solving the right problem."
 draft: false
 ---
 

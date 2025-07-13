@@ -1,7 +1,7 @@
 ---
 title: "Emergence"
-meta_title: "Emergence"
-description: "this is meta description"
+meta_title: "Emergence – System Behavior That Arises from Interactions"
+description: "Emergence refers to the functions, behaviors, or properties that materialize when system elements interact. Understanding emergence is central to systems thinking."
 draft: false
 ---
 

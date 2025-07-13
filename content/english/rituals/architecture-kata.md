@@ -1,7 +1,7 @@
 ---
 title: "Architecture Kata"
-meta_title: "Rituals"
-description: "this is meta description"
+meta_title: "Architecture Kata – Practice Architecture Design Regularly"
+description: "The Architecture Kata is a collaborative ritual to help architects sharpen their design skills, learn by doing, and strengthen collective understanding through repeated practice."
 draft: false
 ---
 

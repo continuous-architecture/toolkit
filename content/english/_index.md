@@ -1,13 +1,13 @@
 ---
 # Banner
 banner:
-  title: "Build your agile operating model to develop and operate outstanding digital products"
-  content: "Continuous Architecture gives you clear ideas, practical methods, and simple rituals to help you move forward. It starts by focusing on your real problems, instead of pushing generic organizational or architectural models. It makes the shift from project to product real and concrete. It also taps into the best of modern software engineering practices — and everything we share is truly open."
+  title: "Architect the future. Unlock product excellence."
+  content: "Continuous Architecture empowers you with sharp ideas, pragmatic rituals, and hands-on methods to tackle your real challenges. It helps you design agile operating models that scale, align teams around outcomes, and turn vision into delivery. Grounded in modern engineering. Powered by clarity, not control. Open, adaptable, and made for leaders who build the future — not just run the present." 
   image: "/images/hero-cover.jpg"
   button:
     enable: true
-    label: "Start your journey"
-    link: "blog/start-your-journey"
+    label: "Join the community"
+    link: "https://www.linkedin.com/company/continuous-architecture/"
 
 # Features
 features:

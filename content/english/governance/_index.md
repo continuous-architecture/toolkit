@@ -1,7 +1,7 @@
 ---
 title: "Governance"
-meta_title: ""
-description: "This is meta description"
+meta_title: "Governance – Decision Rules and Project Roles"
+description: "This document outlines the governance process for the Continuous Architecture Toolkit, including roles, responsibilities, lazy consensus-based decision-making, and the structure of the Governance Committee."
 draft: false
 ---
 

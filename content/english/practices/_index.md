@@ -1,7 +1,7 @@
 ---
 title: "Practices"
-meta_title: "Practices"
-description: "this is meta description"
+meta_title: "Architecture Practices – Tools to Support Continuous Architecture"
+description: "Explore a collection of practical tools and methods that help architects work more effectively, aligned with the Continuous Architecture Manifesto."
 draft: false
 image: "images/practices/practices.png"
 ---

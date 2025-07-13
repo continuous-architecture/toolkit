@@ -1,10 +1,7 @@
 ---
 title: "Product"
-# meta title
-meta_title: ""
-# meta description
-description: "This is meta description"
-# save as draft
+meta_title: "Product View – Organizing Teams Around Value"
+description: "The Product view of the CAF defines products as business capability bundles for customer segments, helping shift from project-driven models to product thinking focused on outcomes and continuous delivery."
 draft: false
 ---
 

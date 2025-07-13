@@ -1,7 +1,7 @@
 ---
 title: "What is architecture"
-meta_title: "Roles"
-description: "this is meta description"
+meta_title: "What Is Architecture?"
+description: "Explore how Continuous Architecture defines software architecture as the key design decisions that impact change cost, quality, and delivery over time."
 draft: false
 ---
 

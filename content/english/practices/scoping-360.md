@@ -1,13 +1,13 @@
 ---
 title: "Scoping 360"
-meta_title: "Practices"
-description: "this is meta description"
+meta_title: "Scoping 360° – Align Teams on Vision and Delivery"
+description: "Scoping 360° is a collaborative framework that helps agile teams align around a clear product vision, architecture, and delivery roadmap to build the right product fast and well."
 draft: false
 ---
 
 ## Scoping 360°
 
-NOTE: The Scoping 360 toolkit is a major evolution of the internal Michelin Value Driven Design / Design Event practice (descibe in the free book [Agile with Guts - A pragmatic guide to value-driven development](https://www.infoq.com/minibooks/agile-guts/) developed around 2010. Evolution which is based-on and inspired by [OCTO 360° Agile Scoping methodology](https://blog.octo.com/le-cadrage-360-preparez-vos-projets-de-delivery-agile/).
+> 📝 Note  The Scoping 360 toolkit is a major evolution of the internal Michelin Value Driven Design / Design Event practice (descibe in the free book [Agile with Guts - A pragmatic guide to value-driven development](https://www.infoq.com/minibooks/agile-guts/) developed around 2010. Evolution which is based-on and inspired by [OCTO 360° Agile Scoping methodology](https://blog.octo.com/le-cadrage-360-preparez-vos-projets-de-delivery-agile/).
 
 The objective of the Scoping 360° toolkit is to best prepare an agile delivery team so that they can build the right product right and fast. It is practice describing activities to perform in order to align the delivery team on a vision, ready to develop a product integrated with its ecosystem, managing risks.  
 

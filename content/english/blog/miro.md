@@ -1,7 +1,7 @@
 ---
 title: "Using our Miro templates"
-meta_title: ""
-description: "this is meta description"
+meta_title: "Using and Sharing Our Miro Templates"
+description: "Learn how to use, customize, and contribute Miro templates—like Team Topologies or Event Storming—in your organization or the Continuous Architecture community."
 date: 2022-03-05T05:00:00Z
 categories: ["miro"]
 author: "Olivier Jauze"

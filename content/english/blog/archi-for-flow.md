@@ -1,7 +1,7 @@
 ---
 title: "Architecture for flow case study"
-meta_title: ""
-description: "this is meta description"
+meta_title: "Case Study – Combining Domain Driven Design & Team Topologies for Fast Flow"
+description: "A real-world case study showing how Domain Driven Design and Team Topologies were combined to break down a monolith, boost team autonomy, and improve flow efficiency in a connected mobility data platform."
 date: 2023-05-01T05:00:00Z
 image: "/images/blog/archi-for-flow/domains_relationship.png"
 categories: ["case studies"]

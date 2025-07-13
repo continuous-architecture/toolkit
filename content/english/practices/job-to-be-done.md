@@ -1,7 +1,7 @@
 ---
 title: "Job-to-be-Done"
-meta_title: "Practices"
-description: "this is meta description"
+meta_title: "Job-to-be-Done – Understanding Real User Needs"
+description: "Explore how the Job-to-be-Done framework helps uncover true user motivations and design value-driven products by focusing on outcomes over assumptions."
 draft: true
 ---
 

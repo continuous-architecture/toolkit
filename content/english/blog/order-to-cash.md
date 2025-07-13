@@ -1,7 +1,7 @@
 ---
 title: "Order to cash domain"
-meta_title: ""
-description: "this is meta description"
+meta_title: "Case Study – Redesigning the Order to Cash Domain with Event-Driven Architecture"
+description: "This case study explores how the Order to Cash domain was redesigned using Domain Driven Design, Event Storming, and event-driven principles to replace a fragile orchestrator and improve system resilience."
 date: 2021-07-04T05:00:00Z
 image: "./images/blog/order-to-cash/event_storming_O2C.jpg"
 categories: ["case studies"]

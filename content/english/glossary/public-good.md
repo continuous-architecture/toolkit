@@ -1,7 +1,7 @@
 ---
 title: "Public Good"
-meta_title: "Public Good"
-description: "this is meta description"
+meta_title: "Public Good – Universally Accessible and Non-Rival"
+description: "A public good is a good or service available to all members of society. It is nonexcludable and nonrivalrous, meaning it can be used by one person without preventing others from using it."
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 
 ![Continuous Architecture Logo](./assets/images/logo-blanc.png)
 
-# Purpose
+## Purpose
 
 The Continuous Architecture toolkit offers guiding ideas, practices, rituals and methods. Unlike most existing enterprise architecture or agile at scale frameworks, Continuous Architecture:
 
@@ -10,19 +10,19 @@ The Continuous Architecture toolkit offers guiding ideas, practices, rituals and
 * Leverages the power of modern software engineering practices
 * Is truly open
 
-# Gouvernance
+## Gouvernance
 
 We aim to make contributing to Continuous Architecture Toolkit a pleasant and enriching experience for all participants, and we welcome contributions of all kinds. Anyone can contribute to the project, regardless of their skills.
 
 Check out our [Governance](content/english/governance/_index.md) for information on how to get involved.
 
-# Supporting us
+## Supporting us
 
 We're a collective of enthusiast architects and open source lovers eager to transform software architecture. We're organizing physical events or digital ones that require some fundings from time to time. Our intent is not to make money, just covering up our expenses. If you want to support us, you can do it [here](https://opencollective.com/continuous-architecture-toolkit).
 
 Thank you :pray:
 
-# Building the Continuous Architecture website on your machine
+## Building the Continuous Architecture website on your machine
 
 The [Continuous Architecture toolkit](https://continuous-architecture.org) is built with [Hugo](https://gohugo.io) base on the template [Hugoplate](https://github.com/zeon-studio/hugoplate), the content with and we embed some [Tailwind](https://tailwindcss.com/) UI components.
 
@@ -48,12 +48,12 @@ Finally, run the below command to
 * either build `npm run build`. It will generate the files in the **public** directory
 * or serve your website locally `npm run dev`. It will allow you to view the generated website in your browser [127.0.0.1:1313](http://127.0.0.1:1313)
 
-# License
+## License
 
 Continuous architecture materials are distributed under [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) apart from some illustrations which are distributed under [Ceative
 Common Attribution ShareAlike 4.0 International License (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/).
 
-# Maintainers
+## Maintainers
 
 Continuous architecture toolkit was initially developed by [Thierry Fraudet](mailto:thierry.fraudet@michelin.com) & [Olivier Jauze](mailto:ojauze@gmail.com) from Michelin and by [Nicolas Chevalier](mailto:nch.nicolas.chevalier@gmail.com) from Gluendo to setup an agile architecture operating model and to support the Michelin digital journey.
 

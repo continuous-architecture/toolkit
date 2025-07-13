@@ -13,7 +13,7 @@ weight = 2
 
 [[main]]
 parent = "Framework"
-name = "Framework"
+name = "CAF"
 url = "/framework"
 weight = 1
 
@@ -57,12 +57,12 @@ url = "/governance"
 weight = 1
 
 [[footer]]
-name = "Politique de vie privée"
+name = "Politique de confidentialité"
 url = "/privacy-policy"
 weight = 2
 
 [[footer]]
-name = "Nous supporter ❤️"
+name = "Nous soutenir ❤️"
 url = "https://opencollective.com/continuous-architecture-toolkit"
 weight = 3
 

@@ -1,7 +1,7 @@
 ---
 title: "Capacity"
-meta_title: "Capacity"
-description: "this is meta description"
+meta_title: "Capacity – Maximum Sustainable Output Rate"
+description: "Capacity refers to the maximum sustainable output rate of a resource, a key concept for sizing systems and meeting demand efficiently."
 draft: false
 ---
 

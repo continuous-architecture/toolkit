@@ -13,7 +13,7 @@ weight = 2
 
 [[main]]
 parent = "Framework"
-name = "Framework"
+name = "CAF"
 url = "/framework"
 weight = 1
 

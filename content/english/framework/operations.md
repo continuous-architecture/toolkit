@@ -1,10 +1,7 @@
 ---
 title: "Operations"
-# meta title
-meta_title: ""
-# meta description
-description: "This is meta description"
-# save as draft
+meta_title: "Operations View – Building Enterprise Capabilities in the Digital Age"
+description: "Learn how the Operations View in the Continuous Architecture Framework helps structure processes, assets, and values to build critical capabilities, with a focus on digital transformation and automation."
 draft: false
 ---
 
