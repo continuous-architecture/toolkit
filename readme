@@ -32,11 +32,16 @@ Before being able to generate locally the website, you need to install a couple 
 
 * Hugo `brew install hugo`
 * NodeJS & NPM: `brew install node`
+* Go Lang: `brew install go`
 
 Then clone the repository
 
 * http : `git clone https://github.com/continuous-architecture/toolkit.git`
 * SSH : `git clone git@github.com:continuous-architecture/toolkit.git`
+
+Install Dependencies
+
+`npm install`
 
 Finally, run the below command to
 
