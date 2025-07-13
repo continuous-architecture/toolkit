@@ -78,6 +78,69 @@
   {{ end }}
   <!-- /Features -->
 
+  <!-- Events -->
+  {{ with site.GetPage "sections/events" }}
+    {{ if .Params.enable }}
+      <section class="section">
+        <div class="container">
+          <div class="row">
+            <div class="md:col-10 lg:col-8 xl:col-6 mx-auto mb-12 text-center">
+              <h2 class="mb-4">
+                {{ .Title | markdownify }}
+              </h2>
+              <p>
+                {{ .Params.description | markdownify }}
+              </p>
+            </div>
+            <div class="col-12">
+              <div class="swiper testimonial-slider">
+                <div class="swiper-wrapper">
+                  {{ range .Params.events }}
+                    <div class="swiper-slide">
+                      <div class="bg-light dark:bg-darkmode-light rounded-lg px-7 py-10">
+                        <div class="text-text-dark dark:text-white">
+                          <p>
+                            {{ $iconClass := "fa-solid fa-bullhorn" }}
+                            {{ if eq .type "Conference" }}
+                              {{ $iconClass = "fa-solid fa-users" }}
+                            {{ else if eq .type "Webinar" }}
+                              {{ $iconClass = "fa-solid fa-video" }}
+                            {{- end }}
+                            <i class="{{ $iconClass }}"></i>&nbsp;{{ .type | markdownify }}
+                          </p>
+                          <p><i class="fa-regular fa-calendar-days"></i>&nbsp;{{ .date | markdownify }}</p>
+                          {{ if .location }}
+                            <p><i class="fa-regular fa-location"></i>&nbsp;{{ .location | markdownify }}</p>
+                          {{- end }}
+                        </div>
+                        <div class="mt-11 flex items-center">
+                          <div class="ml-4">
+                            <h3 class="h5 font-primary font-semibold">
+                              {{ .name }}
+                            </h3>
+                            <p class="text-text-dark dark:text-white">
+                              <a href="{{ .link }}" target="_blank">Details <i class="fa-solid fa-arrow-right"></i></a>
+                            </p>
+                          </div>
+                        </div>
+                        <blockquote class="mt-8">
+                          {{ .content | markdownify }}
+                        </blockquote>
+                      </div>
+                    </div>
+                  {{ end }}
+                </div>
+                <div class="testimonial-slider-pagination mt-9 flex items-center justify-center text-center"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    {{ end }}
+  {{ end }}
+  <!-- /Events -->
+
+
   <!-- Testimonials -->
   {{ with site.GetPage "sections/testimonial" }}
     {{ if .Params.enable }}
@@ -97,8 +160,7 @@
                 <div class="swiper-wrapper">
                   {{ range .Params.testimonials }}
                     <div class="swiper-slide">
-                      <div
-                        class="bg-light dark:bg-darkmode-light rounded-lg px-7 py-10">
+                      <div class="bg-light dark:bg-darkmode-light rounded-lg px-7 py-10">
                         <div class="text-text-dark dark:text-white">
                           <svg
                             width="33"
@@ -131,8 +193,7 @@
                     </div>
                   {{ end }}
                 </div>
-                <div
-                  class="testimonial-slider-pagination mt-9 flex items-center justify-center text-center"></div>
+                <div class="testimonial-slider-pagination mt-9 flex items-center justify-center text-center"></div>
               </div>
             </div>
           </div>
@@ -141,5 +202,4 @@
     {{ end }}
   {{ end }}
   <!-- /Testimonials -->
-
 {{ end }}
