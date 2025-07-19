@@ -54,6 +54,7 @@ To modify the look and feel of the site:
 
 - **Homepage custom section**: added a custom section to the homepage to showcase upcoming or past **events**.
 - **Custom content structure**: introduced the `manifesto` and `framework` folders in the content tree. This allows the homepage to include a **table of contents** with direct links to foundational materials from the Continuous Architecture approach.
+- **Custom social sharing**: Removed the Fediverse link and added a LinkedIn link on the `manifesto`, `framework`, and `blog/single` pages.
 
 Make sure your UI changes are applied consistently across both `french` and `english` versions, and follow accessibility and responsiveness best practices.
 
