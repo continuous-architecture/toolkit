@@ -1,6 +1,6 @@
 ---
-title: "Rôles d’architectes"
-meta_title: "Rôles d’architectes"
+title: "Rôles"
+meta_title: "Rôles"
 description: "Comprendre les rôles architecturaux dans une approche Lean & Agile centrée sur le produit et l’autonomie des équipes."
 draft: false
 image: "images/roles/roles.png"

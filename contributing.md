@@ -12,7 +12,7 @@ WARNING: Note that contributions can only be made by individuals representing th
 
 ## Implement your fix or feature
 
-### Adding / Modifying Continuous Architecture framework content
+### Adding / Modifying content
 
 The [Continuous Architecture website](https://continuous-architecture.org) is built using the **Hugo** static site generator. Content is organized under the `content` folder, which supports multilingual structure via two main subfolders: `french` and `english`.
 
@@ -22,15 +22,16 @@ Each of these folders contains the following sections:
 - `blog`: blog posts that support and illustrate the project.
 - `framework`: descriptions of the Continuous Architecture framework.
 - `glossary`: definitions of terms and concepts used across the site.
-- `governance`: governance model and decision-making processes.
 - `manifesto`: principles of the Continuous Architecture Manifesto.
-- `pages`: standalone pages such as the privacy policy.
+- `pages`: standalone pages such as the privacy policy or governance.
 - `practices`: reusable kits and practices (e.g., ADRs, Team Topologies, Architecture Runway, etc.).
 - `rituals`: rituals and ceremonies (e.g., architecture peer reviews, katas, readiness assessments).
 - `roles`: promoted roles like Product Architect or Fullstack Architect.
-- `section`: content related to events, external references, and community contributions.
+- `section`: content related to events and external references.
 
 Each content item is written in Markdown and uses TOML or YAML front matter for metadata.
+
+> ⚠️ **Important:** When adding or updating content, please make sure to reflect the same content in both `french` and `english` folders to maintain consistency across languages. If a translation is not immediately available, consider adding a placeholder with a note indicating translation is pending.
 
 ### Assets and Static Resources
 
@@ -38,7 +39,7 @@ All static assets (images, JS, etc.) are stored in the `assets` folder. You can 
 
 ### Changing the look and feel
 
-The Continuous Architecture website uses the [**Hugoplate**]() theme, a customizable and modular theme for Hugo.
+The Continuous Architecture website uses the [**Hugoplate**](https://github.com/zeon-studio/hugoplate) theme, a customizable and modular theme for Hugo.
 
 To modify the look and feel of the site:
 
@@ -47,7 +48,12 @@ To modify the look and feel of the site:
 - `assets/scss`: Sass files for theming and styling.
 - `static`: static web resources such as global images, fonts, or JavaScript files.
 
-If you intend to customize the theme, prefer overriding components using Hugo’s lookup order instead of editing the theme directly — this ensures smoother updates and better maintainability.
+📌 If you intend to customize the theme, prefer overriding components using Hugo’s lookup order instead of editing the theme directly — this ensures smoother updates and better maintainability.
+
+🔍 We’ve made the following customizations to tailor the theme to the needs of the Continuous Architecture project:
+
+- **Homepage custom section**: added a custom section to the homepage to showcase upcoming or past **events**.
+- **Custom content structure**: introduced the `manifesto` and `framework` folders in the content tree. This allows the homepage to include a **table of contents** with direct links to foundational materials from the Continuous Architecture approach.
 
 Make sure your UI changes are applied consistently across both `french` and `english` versions, and follow accessibility and responsiveness best practices.
 

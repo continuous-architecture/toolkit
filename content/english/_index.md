@@ -24,7 +24,7 @@ features:
       link: "/blog/problem-discovery"
 
   - title: "Framework"
-    image: "/images/framework/framework.png"
+    image: "/images/framework.png"
     content: "The tools and kits we have created can be used in isolation or they can work together to help the enterprise change to be more successful. In a Volatile, Uncertain, Complex or Ambiguous world, it is important to bring structure while enabling business and operational agility. The Continuous Architecture Framework (CAF) combines intentional architecture and emergent design to help autonomous teams align around a common purpose. Team autonomy is a pre-requisite to speed because it reduces coordination activities that slow down teams. On the other hand, when autonomous teams are mis-aligned it increases the risk of delivering poor client and employee experience due to ineffective coordination. The CAF helps maintain a healthy balance between autonomy and alignment along the enterprise journey toward an agile @scale operating model."
     bulletpoints:
       - The equation we’re proposing is ALIGNMENT + AUTONOMY > CONTROL.
@@ -34,7 +34,7 @@ features:
       link: "/framework"
 
   - title: "Roles"
-    image: "/images/roles/roles.png"
+    image: "/images/roles.png"
     content: "What are the roles we propose in the Continuous Architecture operating model."
     bulletpoints:
       - "Enterprise Architect"
@@ -46,7 +46,7 @@ features:
       link: "/roles"
 
   - title: "Rituals"
-    image: "/images/rituals/rituals.png"
+    image: "/images/rituals.png"
     content: "Architecting is not only about tools, kits and practices. Equally important is the time we spend together working on the architecture around some key rituals. The objective is to foster collaboration in teams on architecture activities."
     bulletpoints:
       - "Team Autonomy Readiness"
@@ -60,7 +60,7 @@ features:
       link: "/rituals"
 
   - title: "Practices"
-    image: "/images/practices/practices.png"
+    image: "/images/practices.png"
     content: "Here is the toolbox we have created to help teams realizing their architecture activities. A set of tools and kits that can be used"
     bulletpoints:
       - "Architecture Runway"

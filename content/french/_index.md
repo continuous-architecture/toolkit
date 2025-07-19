@@ -24,7 +24,7 @@ features:
       link: "/blog/problem-discovery"
 
   - title: "Cadre"
-    image: "/images/framework/framework.png"
+    image: "/images/framework.png"
     content: "Les outils et kits que nous avons créés peuvent être utilisés isolément ou ensemble pour aider l’entreprise à évoluer avec succès. Dans un monde Volatile, Incertain, Complexe ou Ambigu, il est essentiel d’apporter de la structure tout en favorisant l’agilité métier et opérationnelle. Le Cadre da Continuous Architecture (CAF) combine une architecture intentionnelle et une conception émergente pour aider les équipes autonomes à s’aligner sur un objectif commun. L’autonomie des équipes est une condition préalable à la rapidité car elle réduit les activités de coordination qui ralentissent les équipes. Cependant, lorsque les équipes autonomes ne sont pas alignées, cela augmente le risque de fournir une mauvaise expérience client et employé en raison d’une coordination inefficace. Le CAF aide à maintenir un équilibre sain entre autonomie et alignement tout au long du parcours de transformation vers un modèle opérationnel agile à l’échelle."
     bulletpoints:
       - "L’équation que nous proposons est ALIGNEMENT + AUTONOMIE > CONTRÔLE."
@@ -34,7 +34,7 @@ features:
       link: "/framework"
 
   - title: "Rôles"
-    image: "/images/roles/roles.png"
+    image: "/images/roles.png"
     content: "Voici les rôles que nous proposons dans le modèle opérationnel da Continuous Architecture."
     bulletpoints:
       - "Architecte d’Entreprise"
@@ -46,7 +46,7 @@ features:
       link: "/roles"
 
   - title: "Rituels"
-    image: "/images/rituals/rituals.png"
+    image: "/images/rituals.png"
     content: "L’architecture ne se limite pas aux outils, kits et pratiques. Le temps passé ensemble à travailler sur l’architecture au travers de rituels clés est tout aussi important. L’objectif est de favoriser la collaboration au sein des équipes sur les activités d’architecture."
     bulletpoints:
       - "Préparation à l’autonomie des équipes"
@@ -60,7 +60,7 @@ features:
       link: "/rituals"
 
   - title: "Pratiques"
-    image: "/images/practices/practices.png"
+    image: "/images/practices.png"
     content: "Voici la boîte à outils que nous avons créée pour aider les équipes à réaliser leurs activités d’architecture. Un ensemble d’outils et de kits utilisables"
     bulletpoints:
       - "Piste d’architecture"

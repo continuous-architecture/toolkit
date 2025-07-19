@@ -1,73 +1,121 @@
-
 ![Continuous Architecture Logo](./assets/images/logo-blanc.png)
+
+# Continuous Architecture Toolkit
 
 ## Purpose
 
-The Continuous Architecture toolkit offers guiding ideas, practices, rituals and methods. Unlike most existing enterprise architecture or agile at scale frameworks, Continuous Architecture:
+The Continuous Architecture Toolkit offers guiding ideas, practices, rituals, and methods. Unlike most existing enterprise architecture or agile-at-scale frameworks, Continuous Architecture:
 
-* Starts from your problems instead of promoting generic organizational or architecture models
-* Operationalizes the shift from project to product
-* Leverages the power of modern software engineering practices
-* Is truly open
+- Starts from your real-world problems rather than proposing generic organizational or architectural models.
+- Supports the transition from project to product-oriented delivery.
+- Leverages the power of modern software engineering practices.
+- Is truly open and community-driven.
 
-## Gouvernance
+## Governance
 
-We aim to make contributing to Continuous Architecture Toolkit a pleasant and enriching experience for all participants, and we welcome contributions of all kinds. Anyone can contribute to the project, regardless of their skills.
+We aim to make contributing to the Continuous Architecture Toolkit a pleasant and enriching experience for everyone, regardless of skill level. Contributions of all kinds are welcome!
 
-Check out our [Governance](content/english/governance/_index.md) for information on how to get involved.
+Learn more about our [governance model](content/english/pages/governance.md) and how you can get involved.
 
-## Supporting us
+To get started, please read our [Contribution Guidelines](CONTRIBUTING.md).
 
-We're a collective of enthusiast architects and open source lovers eager to transform software architecture. We're organizing physical events or digital ones that require some fundings from time to time. Our intent is not to make money, just covering up our expenses. If you want to support us, you can do it [here](https://opencollective.com/continuous-architecture-toolkit).
+## Supporting Us
 
+We are a collective of passionate architects and open source advocates working to transform the way software architecture is practiced. We occasionally organize physical and virtual events, which may require some funding. Our goal is not to profit but simply to cover expenses.
+
+If you would like to support our efforts, you can do so [here](https://opencollective.com/continuous-architecture-toolkit).  
 Thank you :pray:
 
-## Building the Continuous Architecture website on your machine
+## Build the Continuous Architecture Website Locally
 
-The [Continuous Architecture toolkit](https://continuous-architecture.org) is built with [Hugo](https://gohugo.io) base on the template [Hugoplate](https://github.com/zeon-studio/hugoplate), the content with and we embed some [Tailwind](https://tailwindcss.com/) UI components.
+The [Continuous Architecture Toolkit website](https://continuous-architecture.org) is built with [Hugo](https://gohugo.io), using the [Hugoplate](https://github.com/zeon-studio/hugoplate) template and styled with [Tailwind CSS](https://tailwindcss.com/). You can generate or preview the website locally by following the steps below.
 
-## MacOS
+### 1. Prerequisites
 
-Before being able to generate locally the website, you need to install a couple of pre-requisites
+Install the following tools based on your operating system:
 
-* Hugo `brew install hugo`
-* NodeJS & NPM: `brew install node`
-* Go Lang: `brew install go`
+#### macOS / Linux
 
-Then clone the repository
+```bash
+brew install hugo
+brew install node
+brew install go
+```
 
-* http : `git clone https://github.com/continuous-architecture/toolkit.git`
-* SSH : `git clone git@github.com:continuous-architecture/toolkit.git`
+#### Windows (using Chocolatey)
 
-Install Dependencies
+```powershell
+choco install hugo-extended
+choco install nodejs
+choco install golang
+```
 
-`npm install`
+> 💡 Make sure you restart your terminal or use an elevated shell after installation.
 
-Finally, run the below command to
+### 2. Clone the Repository
 
-* either build `npm run build`. It will generate the files in the **public** directory
-* or serve your website locally `npm run dev`. It will allow you to view the generated website in your browser [127.0.0.1:1313](http://127.0.0.1:1313)
+HTTPS:
+```bash
+git clone https://github.com/continuous-architecture/toolkit.git
+```
+
+SSH:
+```bash
+git clone git@github.com:continuous-architecture/toolkit.git
+```
+
+### 3. Install Dependencies
+
+Run the following command inside the project folder:
+
+```bash
+npm install
+```
+
+### 4. Build or Serve
+
+- To build the static site in the `/public` folder:
+  ```bash
+  npm run build
+  ```
+
+- To serve locally for development (default: [http://127.0.0.1:1313](http://127.0.0.1:1313)):
+  ```bash
+  npm run dev
+  ```
+  Or directly with Hugo:
+  ```bash
+  hugo server --disableFastRender
+  ```
+
+If you're planning to contribute to the website's content or structure, please read the [Contribution Guidelines](CONTRIBUTING.md) to ensure consistency across the project.
 
 ## License
 
-Continuous architecture materials are distributed under [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) apart from some illustrations which are distributed under [Ceative
-Common Attribution ShareAlike 4.0 International License (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/).
+The Continuous Architecture Toolkit is distributed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0), except for some illustrations which are shared under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Maintainers
 
-Continuous architecture toolkit was initially developed by [Thierry Fraudet](mailto:thierry.fraudet@michelin.com) & [Olivier Jauze](mailto:ojauze@gmail.com) from Michelin and by [Nicolas Chevalier](mailto:nch.nicolas.chevalier@gmail.com) from Gluendo to setup an agile architecture operating model and to support the Michelin digital journey.
+The Continuous Architecture Toolkit was initially developed by:
 
-They were quickly joined by a group of enthusiasts from DXC, Société Générale, France Travail, Thales Group and others, sharing the same ideas about the evolution of architecture in the world of information system design and this project is now maintained by the following core group of people:
+- [Thierry Fraudet](mailto:thierry.fraudet@michelin.com) & [Olivier Jauze](mailto:ojauze@gmail.com) – Michelin  
+- [Nicolas Chevalier](mailto:nch.nicolas.chevalier@gmail.com) – Gluendo
 
-* [Frédéric Lé, youragileway.com](mailto:fle@youragileway.com)
-* [Corentin Moussard, Graphic Designer](mailto:corentin.moussard@gmail.com)
-* [Jerome Regnier, Société Générale](mailto:jerome.regnier@socgen.com)
-* [Jérémie Grodziski, Adixe](mailto:jeremie@grodziski.com)
-* [Romain Chapon, Michelin](mailto:romain.chapon@michelin.com)
-* [Yoni Boukhobza,Société Générale](mailto:yoni.boukhobza@socgen.com)
-* [Celia Carceller Kemiche, France Travail](mailto:celia.carceller-kemiche@pole-emploi.fr)
-* [François Bivaud](mailto:francois.bivaud@pole-emploi.fr)
-* [Gael Herent](mailto:gael.herent@thalesgroup.com)
-* [Olivier Trantoul](olivier.trantoul@thalesgroup.com)
+They were soon joined by a group of enthusiastic contributors from DXC, Société Générale, France Travail, Thales Group, and others who shared the same vision for evolving architecture in the modern software world.
 
-note: sadly, Jean-Marc Bunouf passed away before the first MVP of our open source project. Even thought he couldn't make it to the end, Jean-Marc greatly contributed to our project and we're all very thankfull to him.
+### Core Contributors
+
+- [Frédéric Lé](mailto:fle@youragileway.com) – youragileway.com  
+- [Corentin Moussard](mailto:corentin.moussard@gmail.com) – Graphic Designer  
+- [Jérôme Regnier](mailto:jerome.regnier@socgen.com) – Société Générale  
+- [Jérémie Grodziski](mailto:jeremie@grodziski.com) – Adixe  
+- [Romain Chapon](mailto:romain.chapon@michelin.com) – Michelin  
+- [Yoni Boukhobza](mailto:yoni.boukhobza@socgen.com) – Société Générale  
+- [Celia Carceller Kemiche](mailto:celia.carceller-kemiche@pole-emploi.fr) – France Travail  
+- [François Bivaud](mailto:francois.bivaud@pole-emploi.fr) – France Travail  
+- [Gael Herent](mailto:gael.herent@thalesgroup.com) – Thales Group  
+- [Olivier Trantoul](mailto:olivier.trantoul@thalesgroup.com) – Thales Group
+
+---
+
+**In memory of Jean-Marc Bunouf**, who sadly passed away before the release of our first MVP. Although he couldn't see the project to its completion, his contributions were invaluable. We are deeply grateful for his input and vision.
