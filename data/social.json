@@ -14,11 +14,6 @@
       "name": "slack",
       "icon": "fab fa-slack",
       "link": "https://continuousarc-onh6387.slack.com/archives/C01C9MXJMGE"
-    },
-    {
-      "name": "twitter",
-      "icon": "fab fa-twitter",
-      "link": "https://twitter.com/ContinuousArch"
     }
   ]
 }
