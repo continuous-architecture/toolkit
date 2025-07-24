@@ -50,7 +50,7 @@ L'event storming proposé au participants pour explorer le domaine métier de no
 
 Les support présenté aux participants avec les uses cases sur lesquels on leur propose de proposer une solution :
 
-* [Support - Format PDF](./miscellaneous/blog/kata-architecture-hexagonale/cheat_sheet.pdf)
-* [Support - Format PPT](./miscellaneous/blog/kata-architecture-hexagonale/support-pitch.pptx)
-* [Cheat sheet - Format PDF](./miscellaneous/blog/kata-architecture-hexagonale/cheat-sheet.pdf)
-* [Cheat sheet - Format PPT](./miscellaneous/blog/kata-architecture-hexagonale/cheat-sheet.pptx)
+* [Support - Format PDF](/download/kata-architecture-hexagonale/support-pitch.pdf)
+* [Support - Format PPT](/download/kata-architecture-hexagonale/support-pitch.pptx)
+* [Cheat sheet - Format PDF](/download/kata-architecture-hexagonale/cheat-sheet.pdf)
+* [Cheat sheet - Format PPT](/download/kata-architecture-hexagonale/cheat-sheet.pptx)

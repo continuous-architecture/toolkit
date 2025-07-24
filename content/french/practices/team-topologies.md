@@ -43,7 +43,7 @@ Lire le livre ne suffit pas. Nous proposons ici une **recette éprouvée** et un
 * Architectes métier ou SI : pour une vision bout-en-bout
 * Managers des équipes concernées : les embarquer dès le départ évite le rejet en aval
 
-🎯 Un [template Miro](blog/miro) est fourni pour animer ces ateliers collaboratifs :
+🎯 Un [template Miro](/download/practices/team-topologies-2021.2.rtb) est fourni pour animer ces ateliers collaboratifs :
 
 ![image](./images/practices/misc/tp-miro.png)
 

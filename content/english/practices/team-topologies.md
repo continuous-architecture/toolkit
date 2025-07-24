@@ -33,7 +33,7 @@ To have an efficient workshop, we suggest involving at least the below roles:
 * Enterprise or Business Architect of the domain to get some end-to-end insights
 * the managers that are today managing these teams. If you don't it, they will probably react and fight the changes you're pushing. It's better to involve them.
 
-To help you execute this collaborative, we do provide a Miro board available [here](blog/miro)
+To help you execute this collaborative, we do provide a Miro board available [here](/download/practices/team-topologies-2021.2.rtb)
 
 ![image](./images/practices/misc/tp-miro.png)
 

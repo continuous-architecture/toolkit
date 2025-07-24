@@ -45,15 +45,15 @@ To modify the look and feel of the site:
 
 - `layouts`: main layout templates used by the Hugoplate theme.
 - `layouts/partials`: reusable partial templates.
-- `assets/scss`: Sass files for theming and styling.
-- `static`: static web resources such as global images, fonts, or JavaScript files.
+- `assets`: Sass files for theming and styling, and images
+- `static`: static web resources such as pdf, pptx and rtb.
 
 📌 If you intend to customize the theme, prefer overriding components using Hugo’s lookup order instead of editing the theme directly — this ensures smoother updates and better maintainability.
 
 🔍 We’ve made the following customizations to tailor the theme to the needs of the Continuous Architecture project:
 
 - **Homepage custom section**: added a custom section to the homepage to showcase upcoming or past **events**.
-- **Custom content structure**: introduced the `manifesto` and `framework` folders in the content tree. This allows the homepage to include a **table of contents** with direct links to foundational materials from the Continuous Architecture approach.
+- **Custom content structure**: introduced the `framework`, `manifesto`, `pratices`, `rituals` and `roles` folders in the content tree. This allows the homepage to include a **table of contents** with direct links to foundational materials from the Continuous Architecture approach.
 - **Custom social sharing**: Removed the Fediverse link and added a LinkedIn link on the `manifesto`, `framework`, and `blog/single` pages.
 
 Make sure your UI changes are applied consistently across both `french` and `english` versions, and follow accessibility and responsiveness best practices.

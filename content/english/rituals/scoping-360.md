@@ -28,7 +28,7 @@ Two important messages here:
 
 The below images are extracted from a [Miro](https://miro.com/) board we created. Miro is a collaboration tool that helps creating content online and that fits well this kind of workshop. You'll recognize the sequence we just described.
 
-The board backup can be found [here](./miscellaneous/rituals/workshop-architecture.rtb)
+The board backup can be found [here](/download/rituals/workshop-architecture.rtb)
 
 ![image](./images/rituals/misc/workshop-architecture-1-2.png)
 ![image](./images/rituals/misc/workshop-architecture-3-4.png)

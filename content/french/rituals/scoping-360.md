@@ -28,7 +28,7 @@ Deux messages importants ici :
 
 Les visuels ci-dessous sont extraits d’un board [Miro](https://miro.com/) que nous avons créé. Miro est un outil collaboratif en ligne parfaitement adapté à ce type d’atelier. Vous y reconnaîtrez la séquence que nous venons de décrire.
 
-Le fichier de sauvegarde du board est disponible [ici](./miscellaneous/rituals/workshop-architecture.rtb)
+Le fichier de sauvegarde du board est disponible [ici](/download/rituals/workshop-architecture.rtb)
 
 ![image](./images/rituals/misc/workshop-architecture-1-2.png)
 ![image](./images/rituals/misc/workshop-architecture-3-4.png)
