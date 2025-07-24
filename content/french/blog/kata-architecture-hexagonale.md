@@ -1,7 +1,7 @@
 ---
 title: "France Travail - Kata architecture Hexagonale"
-meta_title: ""
-description: ""
+meta_title: "Kata Architecture Hexagonale – Atelier France Travail"
+description: "Découvrez comment France Travail initie ses développeurs à l'architecture hexagonale avec un kata original inspiré de Retour vers le futur. Un atelier ludique, sans code, pour explorer les concepts clés de ce pattern d’architecture logicielle."
 date: 2025-04-10T05:00:00Z
 image: ""
 categories: ["case studies"]
