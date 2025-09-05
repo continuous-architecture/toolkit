@@ -5,7 +5,6 @@ description: ""
 
 # Événements
 events:
-
   - name: "Journée Continuous Architecture 2025"
     date: "2 octobre 2025 / Journée complète"
     location: "Station urbaine RATP Auteuil"

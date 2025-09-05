@@ -4,8 +4,7 @@ title: "Events"
 description: ""
 
 # Events
-events:
-
+events: 
   - name: "Continuous Architecture Days 2025"
     date: "2nd, October 2025 / Full day"
     location: "RATP Urban station Auteuil"

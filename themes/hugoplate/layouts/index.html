@@ -93,19 +93,23 @@
               </p>
             </div>
             <div class="col-12">
-              <div class="swiper testimonial-slider">
+              {{ $events := .Params.events | default slice }}
+              {{ $count := len $events }}
+              <div class="swiper testimonial-slider" data-count="{{ $count }}">
                 <div class="swiper-wrapper">
                   {{ range .Params.events }}
                     <div class="swiper-slide">
                       <div class="bg-light dark:bg-darkmode-light rounded-lg px-7 py-10">
                         <div class="text-text-dark dark:text-white">
+                          {{ $icons := dict
+                            "Conference" "fa-solid fa-users"
+                            "Webinar"    "fa-solid fa-video"
+                            "Default"    "fa-solid fa-bullhorn"
+                          }}
+                          {{ $t := .type }}
+                          {{ $iconClass := cond (isset $icons $t) (index $icons $t) (index $icons "Default") }}
+
                           <p>
-                            {{ $iconClass := "fa-solid fa-bullhorn" }}
-                            {{ if eq .type "Conference" }}
-                              {{ $iconClass = "fa-solid fa-users" }}
-                            {{ else if eq .type "Webinar" }}
-                              {{ $iconClass = "fa-solid fa-video" }}
-                            {{- end }}
                             <i class="{{ $iconClass }}"></i>&nbsp;{{ .type | markdownify }}
                           </p>
                           <p><i class="fa-regular fa-calendar-days"></i>&nbsp;{{ .date | markdownify }}</p>
@@ -130,7 +134,9 @@
                     </div>
                   {{ end }}
                 </div>
+                {{ if ge $count 2 }}
                 <div class="testimonial-slider-pagination mt-9 flex items-center justify-center text-center"></div>
+                {{ end }}
               </div>
             </div>
           </div>
