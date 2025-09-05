@@ -9,8 +9,8 @@ events:
     date: "2nd, October 2025 / Full day"
     location: "RATP Urban station Auteuil"
     type:  "Conference"
-    link: "https://www.linkedin.com/posts/continuous-architecture_save-the-date-la-prochaine-journ%C3%A9e-dinspiration-activity-7346097845051027457-8-CU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAKQl1IBxCCei1irWVkPUXx4WZwc2u69Y6o"
-    content: ""
+    link: "https://lnkd.in/euVnfH57"
+    content: "A unique gathering dedicated to sharing knowledge and experiences in architecture. This edition will highlight how architecture contributes to organizational performance, the key factors for success in business architecture, and the role of Continuous Architecture in current trends. It will also address the challenges faced by architects, the impact of generative AI and agent-based approaches on the profession, and the growing adoption of a true Continuous Architecture culture."
 
 # don't create a separate page
 build:

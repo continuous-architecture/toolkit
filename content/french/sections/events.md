@@ -9,8 +9,8 @@ events:
     date: "2 octobre 2025 / Journée complète"
     location: "Station urbaine RATP Auteuil"
     type:  "Conference"
-    link: "https://www.linkedin.com/posts/continuous-architecture_save-the-date-la-prochaine-journ%C3%A9e-dinspiration-activity-7346097845051027457-8-CU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAKQl1IBxCCei1irWVkPUXx4WZwc2u69Y6o"
-    content: ""
+    link: "https://lnkd.in/euVnfH57"
+    content: "Un rendez-vous unique dédié aux échanges et au partage d’expériences autour de l’architecture. Cette édition mettra en lumière la contribution de l’architecture à la performance des organisations, les leviers de réussite de la *business architecture*, ainsi que la place de Continuous Architecture dans les tendances actuelles. Elle abordera également les obstacles et difficultés rencontrés par les architectes, l’impact de l’IA générative et de l’approche agentique sur le métier, et l’adoption progressive d’une véritable culture Continuous Architecture."
 
 # ne pas créer de page séparée
 build:
