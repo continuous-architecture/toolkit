@@ -5,34 +5,136 @@ description: "This manifesto outlines the core beliefs and principles of Continu
 draft: false
 ---
 
-This Continuous Architecture manifesto aims to provide a clear set of beliefs and principles for our architecture operating model. It is not an attempt to compete with other famous existing manifestos (e.g. https://agilemanifesto.org[Agile Manifesto], https://www.reactivemanifesto.org[Reactive Manifesto]). It conveys a shift from a traditional waterfall approach with big designs up front to a continuous runway mindset.
+This Continuous Architecture Manifesto provides a clear set of beliefs and principles for our architectural operating model.
+It is not an attempt to compete with other well-known manifestos (e.g. [Agile Manifesto](https://agilemanifesto.org), [Reactive Manifesto](https://www.reactivemanifesto.org)).
+It reflects a shift from traditional waterfall approaches with big designs up front to a **continuous runway mindset**.
 
-## We architect long term products, not just project solutions
+---
 
-Consider your architecture activities as a runway following the life of your product (as it goes through different stages: from cradle to grave). Taking decisions, designing new features, reconsidering / reworking what you have done given the new context you're in. The  design need to be robust to future change. Doing so in a project approach is way more difficult not even considering the fact you'll be switching from one project to the other (each switch resulting in time loss at best case, lapse of memory more certainly)
+## Key Trends and Shifts
 
-## We architect our products with a holistic view
+### Trends shaping customer and product experience
 
-Behind this there are two different but complementary ideas. First, we look at the architecture from a fullstack perspective considering all the different layers our products are built on: infrastructure, network, middleware, application and urbanism. In the meantime, we also need to make sure our product fits well into our system. Here we focus on the integration strategy with other systems our products have to communicate with.
+**Customers and users expect more**
 
-## We prove (validate) the architecture by implementing it, not by validating document
+* Customers prefer products and services that solve real problems and help them accomplish tasks.
+* Most customers leave a company after a poor experience.
+* Experience expectations are shaped by large technology companies.
+* Customers increasingly prefer brands aligned with environmental and social values; organizations incorporate ESG goals for both compliance and attractiveness.
 
-Powerpoint slides, archimate diagrams ... don't go to production. The code developed by your squad does. And guess what: the sooner, the better ;)
+**Technology is a game changer**
 
-## Architects shared the responsibility of the end-product; including its operability.
+* Cyber-physical systems make products smarter, more connected, personalized, and efficient.
+* The integration of digital and physical worlds creates new possibilities for functionality, interaction, and service delivery.
+* AI and LLMs enable personalized, efficient, and responsive customer experiences.
 
-When you're designing a solution, always keep in mind that the product you're shaping is likely to be deployed for real and as such it must be designed to be operated simply.
+**Business models evolve**
 
-## Architecture is a team activity and shared understanding, not a document that is passed down from a team to another
+* The shift to “as-a-service” impacts offerings (usage vs. ownership), revenue models, sales, and delivery.
+* Business ecosystems emerge by combining capabilities from different sectors to offer services that no single company could provide alone.
 
-An architecture document becomes obsolete as soon as it's written. Our intention here is not to recommend teams to not write documents. But we think that understanding the architecture, why and how decisions were made, the fullstack nature of your product is way more important than a document. The role of the architect is to transmit this his team ... and to write the just enough documents to communicate within and outside the team.
+---
 
-## Delay decisions until they are absolutely necessary
+### Trends shaping organizations
 
-That's what we call "the last responsible moment". The idea is that the more you wait, the more you have feedback and you'll be in a position to take good decision. The tricky part of the architect job is to know when to make a decision: too early and you're almost blind; too late and the cost of rework could be high.
+**Decision-making is less centralized**
 
-## Risk-driven prioritization: do customer-centric features with major architectural impact first
+* Teams closer to the problem and the customer make faster decisions without multiple approval layers, enabling quicker adaptation to market changes.
+* Decentralization scales operations more effectively by distributing the decision-making load.
 
-Let's take an example to illustrate this: you want to decompose your monolith and you have the choice between doing it on back office features or user facing ones. We do recommend to start with the user facing features. Why? yes the risk of implementing such changes on a critical part of your product is higher so the benefits for your users will be. In that case, moving to a micro services approach will enable the team to deliver faster, reduce the impact of a change, scale differently the different parts of your product...
+**Facts supported by data drive decisions**
 
-![image](./images/manifesto/manifesto.jpg)
+* Data provides an unbiased view of reality, minimizing personal opinions, emotions, and biases.
+* It helps detect shifts in market conditions, customer behavior, and the competitive landscape.
+* Decision-making evolves from guesswork to a more scientific approach.
+
+**Management practices influence performance**
+
+* In many organizations, hierarchical management discourages initiative and reduces innovation capacity.
+* Lack of autonomy and recognition reduces employee engagement, impacting both economic and social performance.
+* Employees and employers alike demand improved management practices.
+
+---
+
+### Trends shaping software
+
+**Rapid deployment of Software-Defined-X and X-as-Code**
+
+* By shifting from hardware-centric to software-driven solutions, Software-Defined-X:
+
+  * Enables organizations to adapt quickly to changing needs by abstracting hardware dependencies.
+  * Reduces operational costs by automating routine tasks while improving resilience by minimizing human error.
+
+**Software becomes a commodity**
+
+* Low-code/no-code platforms democratize software creation, enabling faster innovation with fewer technical barriers.
+* Agentic AI coding tools transform productivity and workflows; projections estimate that AI will generate 95% of code within 5 years (vs. 30% today).
+
+**Platforms go mainstream**
+
+* By separating stable components from differentiators, platforms provide economies of scale while accelerating innovation.
+* Platforms with highly usable self-service features empower autonomous teams.
+
+**Non-Functional Requirements (NFRs) are key**
+
+* Security, safety, privacy, resilience, robustness, sustainability, and frugality become critical architectural drivers.
+* Traceability of requirements ensures that architectural decisions align with business impact (e.g. SRE practices).
+
+---
+
+## We Deliver Superior Product Experience
+
+* We adopt an **outside-in approach**, analyzing customer and stakeholder context to guide product design.
+* We integrate **customer research** from sociology, anthropology, and marketing.
+* We favor **automation with a human touch** to make products and services easier to use.
+* We leverage **architecture for flow** to support continuous development and operations, shortening learning cycles through rapid feedback.
+* We design **smart products** powered by AI and LLMs.
+* We build **safe, secure, ESG-friendly, and antifragile products** that customers can trust.
+* We ensure **efficient delivery and customer support processes** that meet stakeholder expectations.
+
+---
+
+## We Advocate a Socio-Technical Approach
+
+* Continuous Architecture is recursive: **we build the socio-technical systems that build and operate the product system**.
+* **Architecture sparks essential discussions and informs decisions** at both enterprise and product levels. Architects act as experts and coaches.
+* We use **modularity** to eliminate avoidable inter-team dependencies, a powerful lever for autonomy.
+* We promote the **symbiosis between humans and machines**: humans + AI outperform humans or machines alone. Full automation is not always the right solution.
+* We foster a **learning organization** with mentoring practices and empowered teams.
+* We apply Conway’s Law: by **structuring teams to reflect the desired architecture (inverse Conway maneuver)** we reduce handoffs and interfaces.
+* We recognize that new technologies impact social balance. We favor the **co-evolution of social and technological systems**.
+
+---
+
+## We Engineer and Steer Complex Systems
+
+* We prioritize **domain modeling and design** over rigid processes or trend-driven technology choices.
+* We practice **rigorous requirements engineering**, linking non-functional objectives and metrics to business needs (e.g. SRE).
+* We encourage **self-sovereign identity and smart contracts** to secure data exchange across ecosystems.
+* We **extend product development** to include design of delivery and support processes. We validate architecture through rapid delivery and real-world feedback.
+* We favor **leveling over layering**: modular decomposition guides system evolution. We standardize boundaries for reuse and composability.
+* We embrace **platform thinking** to maximize reuse and autonomy.
+* We design with a **holistic view**, recognizing the interdependence of business models, hardware, software, and services.
+* We promote **concurrent engineering** over sequential processes.
+
+---
+
+## Our Principles
+
+1. **Customer-centricity first**: outside-in design, grounded in research and empathy.
+2. **Flow and feedback**: continuous delivery, automation, and rapid learning loops.
+3. **Socio-technical balance**: systems evolve with both people and technology.
+4. **Autonomy through modularity**: minimizing dependencies, maximizing empowerment.
+5. **Resilience and responsibility**: designing for security, sustainability, and trust.
+6. **Holistic systems thinking**: aligning business, technology, and human factors.
+
+---
+
+✨ *We invite practitioners, organizations, and communities to adopt, share, and evolve these principles with us to shape the future of Continuous Architecture.*
+
+---
+
+This document is the **second edition (2.0) of the Continuous Architecture Manifesto**, published in 2025.  
+It updates and expands upon the original beliefs and principles presented in the first edition.  
+
+ℹ️ For historical reference, the [first edition of the Continuous Architecture Manifesto (1.0)](/blog/manifesto-ed1) remains available in the archive.
