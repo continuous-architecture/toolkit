@@ -16,15 +16,11 @@ Si vous souhaitez contacter les responsables de ce projet, plusieurs canaux sont
 
 ### Rôles et responsabilités
 
-* **Utilisateurs** : membres de la communauté qui ont un besoin du *Continuous Architecture Toolkit*. Ils sont les membres **les plus importants** du projet — sans eux, celui-ci n’aurait pas de raison d’être.  
-  Tout le monde peut être utilisateur ; il n’y a **aucune exigence particulière**.  
-  Nous encourageons les utilisateurs à participer à la communauté et à nous faire part de leurs retours autant que possible. Leur contribution permet à l’équipe du projet de mieux répondre à leurs besoins. Voir le [guide des contributeurs](contributing) pour plus de détails.
+* **Utilisateurs** : membres de la communauté qui ont un besoin du *Continuous Architecture Toolkit*. Ils sont les membres **les plus importants** du projet — sans eux, celui-ci n’aurait pas de raison d’être. Tout le monde peut être utilisateur ; il n’y a **aucune exigence particulière**. Nous encourageons les utilisateurs à participer à la communauté et à nous faire part de leurs retours autant que possible. Leur contribution permet à l’équipe du projet de mieux répondre à leurs besoins. Voir le [guide des contributeurs](/CONTRIBUTING.md) pour plus de détails.
 
-* **Contributeurs** : membres de la communauté qui contribuent **de manière concrète** au projet.  
-  Il peut s’agir de personnes identifiant des besoins, signalant des bugs, apportant des améliorations via des pull requests, promouvant le projet ou aidant la communauté à se développer. Voir le [guide des contributeurs](contributing) pour plus de détails.
+* **Contributeurs** : membres de la communauté qui contribuent **de manière concrète** au projet. Il peut s’agir de personnes identifiant des besoins, signalant des bugs, apportant des améliorations via des pull requests, promouvant le projet ou aidant la communauté à se développer. Voir le [guide des contributeurs](/CONTRIBUTING.md) pour plus de détails.
 
-* **Mainteneurs** : responsables de l’orientation du projet, engagés dans son amélioration à long terme.  
-  Ce sont les **seules personnes disposant des droits de commit** sur le projet. Voir le [guide des mainteneurs](maintainer-guide) pour plus d’informations.
+* **Mainteneurs** : responsables de l’orientation du projet, engagés dans son amélioration à long terme.  Ce sont les **seules personnes disposant des droits de commit** sur le projet.
 
 ### Processus de prise de décision
 
