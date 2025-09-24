@@ -17,7 +17,7 @@ We aim to make contributing to the Continuous Architecture Toolkit a pleasant an
 
 Learn more about our [governance model](content/english/pages/governance.md) and how you can get involved.
 
-To get started, please read our [Contribution Guidelines](CONTRIBUTING.md).
+To get started, please read our [Contribution Guidelines](./contributing.md).
 
 ## Supporting Us
 
@@ -88,7 +88,7 @@ npm install
   hugo server --disableFastRender
   ```
 
-If you're planning to contribute to the website's content or structure, please read the [Contribution Guidelines](CONTRIBUTING.md) to ensure consistency across the project.
+If you're planning to contribute to the website's content or structure, please read the [Contribution Guidelines](./contributing.md) to ensure consistency across the project.
 
 ## License
 
