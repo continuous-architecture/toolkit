@@ -12,7 +12,7 @@ draft: false
 
 ## Start your journey
 
-The deployment of the new ways of working (practices, rituals, framework) described in the Continuous Architecture Framework and Toolbox is a major change journey. There is no single pathway to move your enterprise (or part of it) from its current state to the ideal state (or north star) we recommend and which is embodied in the key tenets of the link:/docs/manifest/manifesto.html[Continuous Architecture Manifesto].
+The deployment of the new ways of working (practices, rituals, framework) described in the Continuous Architecture Framework and Toolbox is a major change journey. There is no single pathway to move your enterprise (or part of it) from its current state to the ideal state (or north star) we recommend and which is embodied in the key tenets of the [Continuous Architecture Manifesto - edition 1](/blog/manifesto-ed1).
 
 There are multiple ways of starting your journey:
 
@@ -22,15 +22,15 @@ There are multiple ways of starting your journey:
 
 The bottom-up approach can help you *"test the water"* and demonstrated success. At some point when your organization will be ready for a more ambitious change agenda you will likely need to shift to a combination of bottom-up and top-down approach.
 
-The diagram below which is described in the *"Organization"* view of the [Continuous Architecture Framework](framework), can help you define the scope and pace of your change journey.
+The diagram below which is described in the *"Organization"* view of the [Continuous Architecture Framework](/framework), can help you define the scope and pace of your change journey.
 
 ![image](./images/framework/organization.svg)
 
 ## Start your Bottom-up journey
 
-The bottom-up approach is mostly at the team level and scopes one or few agile teams. First you will start assessing teams'  autonomy as each team as a uniq combination of people & skills and a different master degree on architecture activities. The [team autonomy readiness tool](rituals/team-autonomy-readiness) was designed for this purposed.
+The bottom-up approach is mostly at the team level and scopes one or few agile teams. First you will start assessing teams'  autonomy as each team as a uniq combination of people & skills and a different master degree on architecture activities. The [team autonomy readiness tool](/rituals/team-autonomy-readiness) was designed for this purposed.
 
-Then, we recommend to experiment a few CA practices without changing the way teams are structured. For example documenting your architecture decisions using the [Architecture Decision Record](practices/architecture-decision-records) template is usually a good place to start. It's an easy tool to use with a huge pay off as it makes explicit and sharable the decisions we make. Then, starting to describe your architecture journey in the [Architectural Runway](practices/architecture-runway) will make it explicit to the team but not only. Rituals like the [weekly architecture meeting](rituals/weekly-architecture-meeting) are designed to create opportunities to collaborate in the team on the architecture. They form the dialog zone we promote.
+Then, we recommend to experiment a few CA practices without changing the way teams are structured. For example documenting your architecture decisions using the [Architecture Decision Record](/practices/architecture-decision-records) template is usually a good place to start. It's an easy tool to use with a huge pay off as it makes explicit and sharable the decisions we make. Then, starting to describe your architecture journey in the [Architectural Runway](/practices/architecture-runway) will make it explicit to the team but not only. Rituals like the [weekly architecture meeting](/rituals/weekly-architecture-meeting) are designed to create opportunities to collaborate in the team on the architecture. They form the dialog zone we promote.
 
 If your teams are structured along projects or functional skills you might discover they are not cross-functional and they are slowed-down by too many dependencies. At that point you might want to revisit the existing teams' topologies and shift them from a project structure and mindset to a product one as described in the [Organization](framework/organization) section.
 
@@ -155,7 +155,7 @@ Behind the **see the whole** is hidden two distinct elements
 
 **Re(Balance)** is all about making space in product backlog to "non functional" items. Too often in the past the priority was given to "business" features leading to not taking enough into account what is important architecturally wise like expected performance, quality of services, upgrading technical components ... It led to a significant deterioration of the quality of service of our products. We needed to re-balance this and we used for that the Architecture Runway.
 
-Last but not least: **people**. Changing the architecture operating model is all about the people. So here we took care of defining our architects roles and their required skills. And to help bridge the gap (if any), we put in place an architecture academy with identified trainings but also a coaching proposal and collaborative intelligence tools like [Architecture Katas](architecture-kata).
+Last but not least: **people**. Changing the architecture operating model is all about the people. So here we took care of defining our architects roles and their required skills. And to help bridge the gap (if any), we put in place an architecture academy with identified trainings but also a coaching proposal and collaborative intelligence tools like [Architecture Katas](/rituals/architecture-kata).
 
 #### The enablers
 
@@ -199,9 +199,9 @@ As an independent experienced professional in enterprise architecture, my recomm
 
 By thinking big, I mean communicate on a vision while building up a supportive and favorable environment, daring to remove the structural barriers. By acting small, the idea is to take the time to empower local teams so that the teams will implement what makes sense for them taking into account their context, defining the acceptable speed of change while identifying synergic opportunities and being innovative.
 
-[^1]: Watch the experience report from Société Générale and Fidelity: https://www.youtube.com/watch?v=qeWpRGTc5TQ
-[^2]: Read ING's agile transformation article: https://www.mckinsey.com/industries/financial-services/our-insights/ings-agile-transformation
-[^3]: See: https://www.atlassian.com/agile/agile-at-scale/spotify
-[^4]: See: https://teamtopologies.com/book
-[^5]: See: https://www.kotterinc.com/8-steps-process-for-leading-change/
-[^6]: See: https://www.infoq.com/news/2016/10/no-spotify-model/ or https://www.business2community.com/strategy/there-is-no-spotify-model-for-scaling-agile-02284278
+[^1]: [Société Générale & Fidelity - Experience report](https://www.youtube.com/watch?v=qeWpRGTc5TQ)  
+[^2]: [Transformation agile d’ING – McKinsey](https://www.mckinsey.com/industries/financial-services/our-insights/ings-agile-transformation)  
+[^3]: [Spotify Model – Atlassian](https://www.atlassian.com/agile/agile-at-scale/spotify)  
+[^4]: [Team Topologies – Livre](https://teamtopologies.com/book)  
+[^5]: [Méthodologie Kotter – Leading Change](https://www.kotterinc.com/8-steps-process-for-leading-change/)  
+[^6]: [Pourquoi le modèle Spotify ne suffit pas](https://www.infoq.com/news/2016/10/no-spotify-model/) / [Business2Community](https://www.business2community.com/strategy/there-is-no-spotify-model-for-scaling-agile-02284278)
