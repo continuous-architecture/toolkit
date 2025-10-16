@@ -31,7 +31,7 @@ weight = 3
 
 [[main]]
 parent = "Framework"
-name = "Practiques"
+name = "Pratiques"
 url = "/practices"
 weight = 4
 
@@ -41,9 +41,21 @@ url = "/glossary"
 weight = 3
 
 [[main]]
-name = "A propos"
+name = "À propos"
 url = "/authors"
 weight = 4
+
+[[main]]
+parent = "À propos"
+name = "Mainteneurs"
+url = "/authors"
+weight = 1
+
+[[main]]
+parent = "À propos"
+name = "Association"
+url = "/organization"
+weight = 2
 
 [[main]]
 name = "Blog"

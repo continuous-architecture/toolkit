@@ -1,0 +1,20 @@
+{{ define "main" }}
+  <section class="section">
+    <div class="container">
+      <div class="row justify-center">
+        <article class="lg:col-10">
+          <div class="content mb-10">
+          {{ .Content }}
+        </div>
+        </article>
+      </div>
+      <div class="row">
+        {{ range .RegularPages }}
+          <div class="md:col-6 lg:col-3 mb-14">
+            {{ partial "components/author-card" . }}
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+{{ end }}
