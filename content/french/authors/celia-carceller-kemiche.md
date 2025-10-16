@@ -1,5 +1,5 @@
 ---
-title: Celia Carceller Kemiche
+title: Célia Carceller Kemiche
 email: romain.chapon@michelin.com
 image: "/images/authors/celia-carceller-kemiche.jpg"
 description: Entreprise Architect @ France Travail
