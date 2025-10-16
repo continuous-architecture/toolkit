@@ -37,13 +37,25 @@ weight = 4
 
 [[main]]
 name = "Glossary"
-url = "/Glossary"
+url = "/glossary"
 weight = 3
 
 [[main]]
 name = "About us"
 url = "/authors"
 weight = 4
+
+[[main]]
+parent = "About us"
+name = "Maintainers"
+url = "/authors"
+weight = 1
+
+[[main]]
+parent = "About us"
+name = "Organization"
+url = "/organization"
+weight = 2
 
 [[main]]
 name = "Blog"
