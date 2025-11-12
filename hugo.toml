@@ -163,7 +163,7 @@ lazy = true
 
 ############################# Analytics ##############################
 [params.matomo]
-enable = false              # Active/désactive globalement
+enable = true              # Active/désactive globalement
 url = "https://analytics.lechaps.com/"
 siteID = 3
 respectDNT = true          # Respect du Do Not Track
