@@ -1,0 +1,25 @@
+{{- $p := .Site.Params.matomo -}}
+    {{- if and $p $p.enable $p.url $p.siteID -}}
+    <script>
+    var _paq = window._paq = window._paq || [];
+    {{- if $p.respectDNT }} _paq.push(['setDoNotTrack', true]); {{ end -}}
+    {{- if $p.disableCookies }} _paq.push(['disableCookies']); {{ end -}}
+    {{- with $p.domains }} _paq.push(['setDomains', {{ . | jsonify }} ]); {{ end -}}
+    _paq.push(['enableLinkTracking']);
+    _paq.push(['trackPageView']);
+    (function() {
+        var u="{{ trim $p.url " " }}";
+        _paq.push(['setTrackerUrl', u + 'matomo.php']);
+        _paq.push(['setSiteId', '{{ $p.siteID }}']);
+        var d=document,g=d.createElement('script'),s=d.getElementsByTagName('script')[0];
+        g.async=true; g.src=u + 'matomo.js'; s.parentNode.insertBefore(g,s);
+    })();
+    </script>
+    {{- if $p.noscript }}
+    <noscript>
+    <p><img referrerpolicy="no-referrer-when-downgrade"
+            src="{{ trim $p.url " " }}matomo.php?idsite={{ $p.siteID }}&amp;rec=1"
+            style="border:0" alt=""/></p>
+    </noscript>
+    {{- end -}}
+{{- end -}}
