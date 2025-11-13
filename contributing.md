@@ -56,6 +56,7 @@ To modify the look and feel of the site:
 - **Homepage custom section**: added a custom section to the homepage to showcase upcoming or past **events**.
 - **Custom content structure**: introduced the `framework`, `manifesto`, `organization`, `practices`, `rituals` and `roles` folders in the content tree. This allows the homepage to include a **table of contents** with direct links to foundational materials from the Continuous Architecture approach.
 - **Custom social sharing**: Removed the Fediverse link and added a LinkedIn link on the `manifesto`, `framework`, and `blog/single` pages.
+- **Custom analytics**: Add `layout/partials/matomo.html` file, add short lines of code in `layout/_default/baseof.html`.
 
 Make sure your UI changes are applied consistently across both `french` and `english` versions, and follow accessibility and responsiveness best practices.
 

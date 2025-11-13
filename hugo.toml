@@ -160,3 +160,12 @@ lazy = true
 [[params.plugins.js]]
 link = "plugins/youtube-lite.js"
 lazy = true
+
+############################# Analytics ##############################
+[params.matomo]
+enable = true              # Active/désactive globalement
+url = "https://analytics.lechaps.com/"
+siteID = 3
+respectDNT = true          # Respect du Do Not Track
+disableCookies = true      # Matomo sans cookies (utile en dev / RGPD)
+noscript = true            # Pixel <noscript> en fallback

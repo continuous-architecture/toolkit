@@ -10,9 +10,12 @@
     <!-- head (don't cache it) -->
     {{ partial "essentials/head.html" . }}
 
-
     <!-- style (always cache it) -->
     {{ partialCached "essentials/style.html" . }}
+
+    {{ if .Site.Params.matomo.enable }}
+      {{ partial "matomo.html" . }}
+    {{ end }}
 
   </head>
 
