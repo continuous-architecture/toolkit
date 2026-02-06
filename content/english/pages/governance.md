@@ -16,8 +16,8 @@ If you'd like to speak to maintainers of this project, you can reach us through 
 
 ### Roles and Responsibilities
 
-* *Users* are community members who have a need for Continuous Architecture Toolkit. They are the most important members of the community and without them the project would have no purpose. Anyone can be a user; there are no special requirements. We asks users to participate in community and give us as much feedback as they can. User contributions enable the project team to ensure that they are satisfying the needs of those users. See [Contributor guide](/https://github.com/continuous-architecture/toolkit/blob/main/contributing.md) for more details.
-* *Contributors* are community members who contribute in concrete ways to the project. It could be anyone who identify requirements, report issue, add value to the project with a merged pull request, evangelising or help the community to grow. See [Contributor guide](/https://github.com/continuous-architecture/toolkit/blob/main/contributing.md) for more details.
+* *Users* are community members who have a need for Continuous Architecture Toolkit. They are the most important members of the community and without them the project would have no purpose. Anyone can be a user; there are no special requirements. We asks users to participate in community and give us as much feedback as they can. User contributions enable the project team to ensure that they are satisfying the needs of those users. See [Contributor guide](https://github.com/continuous-architecture/toolkit/blob/main/contributing.md) for more details.
+* *Contributors* are community members who contribute in concrete ways to the project. It could be anyone who identify requirements, report issue, add value to the project with a merged pull request, evangelising or help the community to grow. See [Contributor guide](https://github.com/continuous-architecture/toolkit/blob/main/contributing.md) for more details.
 * *Maintainers* are people responsible over the direction of the project and are committed to improving it in the long run. There are the only people in a project with commit access.
 
 ### Decision-Making process
