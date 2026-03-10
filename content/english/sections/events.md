@@ -4,22 +4,27 @@ title: "Events"
 description: ""
 
 # Events
-events: 
-  - name: "Continuous Architecture Days 2025"
-    date: "2nd, October 2025 / Full day"
-    location: "RATP Urban station Auteuil"
+events:
+  - name: "Inno Day – Asset Management Serving Architecture"
+    date: "12 March 2026 / Full day"
+    location: "Paris (Super spot - 39 rue Volta)"
     type:  "Conference"
-    link: "https://lnkd.in/euVnfH57"
-    content: "A unique gathering dedicated to sharing knowledge and experiences in architecture. This edition will highlight how architecture contributes to organizational performance, the key factors for success in business architecture, and the role of Continuous Architecture in current trends. It will also address the challenges faced by architects, the impact of generative AI and agent-based approaches on the profession, and the growing adoption of a true Continuous Architecture culture."
-  - name: "Site Reliability Engineering (SRE) Day"
-    date: "October 13, 2025 / Full day"
-    location: "EDF in Colombes"
-    type: "Conference"
-    link: "https://lnkd.in/erXcxtiR"
-    content: "A must-attend event dedicated to sharing and exchanging experiences around SRE. This edition will highlight how this discipline contributes to organizational performance and resilience, the proven success factors established by industry pioneers, as well as the forward-looking perspectives shared by sector leaders. It will also address practical approaches to leveraging error budgets, the impact of architecture on system reliability, SRE team organizational models, and the strategic visions shaping the future of the discipline. Finally, major companies such as EDF, Michelin, Decathlon, France Travail, Google, Groupama, and many others will share their insights and illustrate how SRE is becoming an integral part of corporate culture."
+    link: "https://my.weezevent.com/inno-day-12-mars-2026-soutiller-pour-soutenir-larchitecture-continue?_gl=1*dys5os*_gcl_au*MTYxMjM2OTM4OS4xNzcwMTI4NzQxLjEyMzA0MjAwNjkuMTc3MDcxMTI0Ny4xNzcwNzExMjQ3*_ga*MTQ3ODI0NzU5Mi4xNzcwMTI4NzQx*_ga_39H9VBFX7G*czE3NzA3MTEyNDckbzQkZzEkdDE3NzA3MTMyNDUkajYwJGwwJGgxNjI0OTc5NDk1"
+    content: "In a world where products, platforms, AI and the Cloud evolve constantly, mastering digital assets has become a strategic necessity. This first Inno Day immerses you at the heart of Continuous Architecture practices: concrete, impact‑driven and grounded in real‑world challenges. On the agenda: a round table, collaborative workshops, an AI benchmark, vendor use cases, and a mini‑hackathon to experience firsthand how AI transforms asset management. Objective: leave with a clear vision of the winning approach to bringing continuous architecture to life."
+  - name: "Professionalization Day"
+    date: "18 June 2026 / Full day"
+    location: "To be determined"
+    type:  "Conference"
+    link: "https://www.linkedin.com/company/continuous-architecture/"
+    content: "The Continuous Architecture community will gather for an intense day of exchanges, sharing, and co‑construction around a major challenge: strengthening and professionalizing the architecture discipline. The CA hive will explore three key themes to increase architect impact: essential skills of the profession, the architect journey and golden path, and the most effective mechanisms for professionalization. Objective: circulate ideas, surface concrete tools, and continue growing a vibrant and engaged community."
+  - name: "Continuous Architecture Day 2025"
+    date: "8 October 2026 / Full day"
+    location: "To be determined"
+    type:  "Conference"
+    link: "https://www.linkedin.com/company/continuous-architecture/"
+    content: "A unique event dedicated to exchange and experience sharing around architecture. This edition will highlight architecture’s contribution to organizational performance, the success levers of business architecture, and the place of Continuous Architecture within current trends. It will also address the obstacles and difficulties architects face, the impact of generative AI and agentic approaches on the profession, and the gradual adoption of a true Continuous Architecture culture."
 
-
-# don't create a separate page
+# do not create a separate page
 build:
   render: "never"
 ---
