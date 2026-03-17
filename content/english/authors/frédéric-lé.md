@@ -6,5 +6,7 @@ description: Founder @ youragileway.com
 social:
 ---
 
-Frédéric is a Digital Transformation, Enterprise Architect and Process Management thought leader and practitioner. As an industry advisor, he has led the development of the [Open Agile Architecture<sup>TM</sup>](https://www.opengroup.org/agilearchitecture) Standard and has contributed to the development of the [Digital Practitioner Body of Knowledge<sup>TM</sup>](https://www.opengroup.org/dpbok).
-He has over 30 years professional experience working for global firms in Europe and North America as a Management Consultant and Architecture Leader. He is currently serving as administrator of "France Processus" which is the French chapter of the [Association of Business Process Management Professionals](https://www.abpmp.org/).
+Frédéric is a Digital Transformation Expert, Enterprise Architect and Process Management practitioner. He currently represents [AFNeT](https://www.afnet.fr/) within the [Gaia-X](https://gaia-x.eu/what-is-gaia-x/) Working Group and co-leads an architecture Working Group on Local Digital Twins within the [MinnD2050](https://minnd2050.fr/en/home/) project.
+He has led the development of the [Open Agile Architecture<sup>TM</sup>](https://www.opengroup.org/agilearchitecture) Standard and has contributed to the development of the [Digital Practitioner Body of Knowledge<sup>TM</sup>](https://www.opengroup.org/dpbok).
+His current areas of interest include the impact of AI on business processes and the design of cyber-physical systems.
+He has over 30 years professional experience working for global firms in Europe and North America as a Management Consultant and Architecture Leader. 
