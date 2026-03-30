@@ -5,12 +5,6 @@ description: ""
 
 # Events
 events:
-  - name: "Inno Day – Asset Management Serving Architecture"
-    date: "12 March 2026 / Full day"
-    location: "Paris (Super spot - 39 rue Volta)"
-    type:  "Conference"
-    link: "https://my.weezevent.com/inno-day-12-mars-2026-soutiller-pour-soutenir-larchitecture-continue?_gl=1*dys5os*_gcl_au*MTYxMjM2OTM4OS4xNzcwMTI4NzQxLjEyMzA0MjAwNjkuMTc3MDcxMTI0Ny4xNzcwNzExMjQ3*_ga*MTQ3ODI0NzU5Mi4xNzcwMTI4NzQx*_ga_39H9VBFX7G*czE3NzA3MTEyNDckbzQkZzEkdDE3NzA3MTMyNDUkajYwJGwwJGgxNjI0OTc5NDk1"
-    content: "In a world where products, platforms, AI and the Cloud evolve constantly, mastering digital assets has become a strategic necessity. This first Inno Day immerses you at the heart of Continuous Architecture practices: concrete, impact‑driven and grounded in real‑world challenges. On the agenda: a round table, collaborative workshops, an AI benchmark, vendor use cases, and a mini‑hackathon to experience firsthand how AI transforms asset management. Objective: leave with a clear vision of the winning approach to bringing continuous architecture to life."
   - name: "Professionalization Day"
     date: "18 June 2026 / Full day"
     location: "To be determined"

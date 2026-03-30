@@ -5,12 +5,6 @@ description: ""
 
 # Événements
 events:
-  - name: "Inno Day - La gestion du patrimoine au service de l'architecture"
-    date: "12 mars 2026 / Journée complète"
-    location: "Paris (Super spot - 39 rue Volta)"
-    type:  "Conference"
-    link: "https://my.weezevent.com/inno-day-12-mars-2026-soutiller-pour-soutenir-larchitecture-continue?_gl=1*dys5os*_gcl_au*MTYxMjM2OTM4OS4xNzcwMTI4NzQxLjEyMzA0MjAwNjkuMTc3MDcxMTI0Ny4xNzcwNzExMjQ3*_ga*MTQ3ODI0NzU5Mi4xNzcwMTI4NzQx*_ga_39H9VBFX7G*czE3NzA3MTEyNDckbzQkZzEkdDE3NzA3MTMyNDUkajYwJGwwJGgxNjI0OTc5NDk1"
-    content: "Dans un monde où produits, plateformes, IA et Cloud évoluent sans cesse, maîtriser son patrimoine numérique devient une nécessité stratégique. Cette première Inno Day vous plonge au cœur des pratiques de Continuous Architecture : concrètes, orientées impact et ancrées dans le réel. Au programme : table ronde, ateliers collaboratifs, benchmark IA, cas d'usage éditeurs et mini‑hackathon pour expérimenter en direct comment l'IA transforme la gestion des actifs. Objectif : repartir avec une vision claire de l'approche gagnante pour faire vivre l'architecture continue."
   - name: "Journée de professionnalisation"
     date: "18 juin 2026 / Journée complète"
     location: "à déterminer"
