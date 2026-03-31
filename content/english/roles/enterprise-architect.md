@@ -9,7 +9,7 @@ The reporting structure to which the enterprise architect belongs, as well as th
 
 ![image](./images/roles/enterprise-role.jpg)
 
-Enterprise Architect as an IT role
+## Enterprise Architect as an IT role
 
 In companies that continue to be influenced by the TOGAF 9.2 model of the Open Group, an Architecture Board under the supervision of the CIO defines the framework within which architectural decisions are made.In these companies, the role of Enterprise Architect is viewed—particularly by the business side—as an IT role.The core responsibilities of the Enterprise Architect are:
 
