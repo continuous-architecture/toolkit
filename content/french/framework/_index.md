@@ -49,3 +49,7 @@ Cela signifie que les aspects technologiques et opérationnels peuvent être tra
 Et que cela nous plaise ou non, la **décomposition de l’entreprise** influencera ce que vous faites, à travers une architecture intentionnelle qui reflète généralement la manière dont l’entreprise est organisée. Cela peut survenir à tout moment. C’est donc à nous d’utiliser le **Cadre de Continuous Architecture** pour accompagner cette décomposition, voire l’influencer, notamment grâce à la **manœuvre de Conway inversée**, qui consiste à concevoir une organisation pour qu’elle reflète l’architecture (et non l’inverse).
 
 L’une des implications de la notion de *continu* ici est de trouver un **équilibre entre architecture intentionnelle et conception émergente**. Cela permet de mieux gérer l’incertitude et la complexité qui caractérisent le parcours numérique des entreprises.
+
+## Au-delà du cadre : le ciment qui tient la Continuous Architecture
+
+Cependant, le framework de Continuous Architecture ne suffit pas à lui seul. Pour que ces six vues deviennent une pratique vivante dans votre organisation, il faut cultiver une infrastructure souvent invisible mais fondamentale : une **communauté de pratiques** autour de l'architecture. Découvrez pourquoi aucune organisation ne peut réellement pratiquer la Continuous Architecture sans cette communauté — et comment elle devient le mécanisme le plus robuste pour distribuer les décisions architecturales à grande échelle : [Communauté de Pratiques](cop).
