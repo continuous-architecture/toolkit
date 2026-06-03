@@ -11,14 +11,14 @@
 
 ## Executive Summary — Continuous Architecture : de la décision à l’impact
 
-Dans la plupart des organisations, les décisions architecturales ne produisent pas leurs effets :
+Dans trop d'organisations, les décisions architecturales ne produisent pas leurs effets :
 elles sont documentées mais peu comprises, diffusées mais peu appropriées, définies mais peu appliquées de manière cohérente.
 
 Ce décalage ne vient ni des outils, ni des méthodes, ni des compétences.
 Il vient de l’absence d’un espace structuré où ces décisions peuvent être discutées, comprises et portées collectivement.
 
-**La Continuous Architecture ne consiste pas à produire de meilleures décisions.
-Elle consiste à créer les conditions pour qu’elles aient un impact réel.**
+**La Continuous Architecture pense que produire de meilleures décisions est nécessaire, mais pas suffisant.
+Il faut auusi créer les conditions pour que celles-ci aient un impact réel.**
 
 ### Une conviction clé
 
@@ -29,11 +29,11 @@ C’est une pratique que l’on cultive collectivement — et toute pratique viv
 
 * Une décision architecturale n’a de valeur que si elle est comprise et utilisée : si elle ne circule pas, elle n’existe pas dans la pratique
 * L’architecture ne vit pas uniquement dans les artefacts (standards, ADR), mais dans l’équilibre entre **réification (documents)** et **participation (interactions, expériences, jugement)**
-* Le problème principal n’est pas la qualité des décisions, mais leur **appropriation collective**
+* Le problème n’est pas seulement la qualité des décisions, mais aussi leur **appropriation collective**
 
 ### Le véritable changement de modèle
 
-* La Continuous Architecture implique un déplacement du modèle de gouvernance :
+* La Continuous Architecture implique une évolution du modèle de gouvernance :
   **du contrôle centralisé vers une influence distribuée**
 * L’alignement ne peut plus être obtenu par prescription, mais par **compréhension partagée et convergence progressive des décisions locales**
 * L’architecture devient une responsabilité **collective et distribuée**, au-delà des seuls architectes
@@ -41,7 +41,7 @@ C’est une pratique que l’on cultive collectivement — et toute pratique viv
 ### Le rôle central de la communauté
 
 * Une pratique vivante ne peut exister et se développer qu’au sein d’une **communauté de pratiques**
-* Cette communauté ne se limite pas aux architectes : elle inclut tous les acteurs qui prennent des décisions structurantes (tech leads, engineering managers, etc.)
+* Cette communauté ne se limite pas aux architectes : elle inclut tous les acteurs qui prennent et influencent les décisions structurantes (tech leads, engineering managers, etc.)
 * Sa valeur ne dépend pas de sa taille, mais de sa capacité à produire des **interactions qui influencent réellement les décisions**
 
 ### Un levier direct sur l’architecture du SI
@@ -68,7 +68,7 @@ Ce document peut être abordé selon votre objectif :
 * **Comprendre le problème réel** : pourquoi les décisions architecturales ne produisent pas leurs effets
 * **Changer de perspective** : considérer l’architecture comme une pratique collective, et non uniquement comme un ensemble d’artefacts
 * **Élargir le périmètre** : passer d’une communauté d’architectes à une communauté d’architecture
-* **Comprendre le levier systémique** : rôle des interactions (Conway, réseaux) dans la forme des systèmes
+* **Comprendre la dimension systémique** : rôle des interactions (Conway, réseaux) dans la forme des systèmes
 * **Passer à l’échelle** : comprendre comment une communauté fonctionne, évolue et se maintient dans le temps
 
 ### En synthèse
@@ -85,7 +85,7 @@ C’est un **acte architectural en soi** — au cœur de la capacité d’une or
 
 Il existe une contradiction silencieuse — et rarement nommée — au cœur de la plupart des organisations qui adoptent la Continuous Architecture. Elles investissent dans des frameworks, des référentiels, des outils de modélisation, des plateformes de documentation architecturale — souvent impeccables, rarement ouvertes. Elles nomment des architectes, définissent des rôles, tracent des périmètres de responsabilité. Elles forment leurs équipes aux principes de l'architecture évolutive, aux ADR — Architecture Decision Records — aux patterns de découplage et aux stratégies de migration.
 
-Et pourtant, quelques années plus tard, le constat est le même : les décisions architecturales ne se diffusent pas. Les standards sont connus de ceux qui les ont écrits, ignorés de ceux qui devraient les appliquer. Les architectes de différentes équipes prennent des décisions contradictoires sans même le savoir. Le référentiel d'architecture, soigneusement construit, accumule la poussière dans un espace que personne ne consulte.
+Et pourtant, quelques années plus tard, le constat est trop souvent le même : les décisions architecturales ne se diffusent pas. Les standards sont connus de ceux qui les ont écrits, ignorés de ceux qui devraient les appliquer. Les architectes de différentes équipes prennent des décisions contradictoires sans même le savoir. Le référentiel d'architecture, soigneusement construit, accumule la poussière dans un espace que personne ne consulte.
 
 Ce constat est rarement attribué à sa véritable cause. On incrimine les outils, les méthodes, parfois les individus. Plus rarement, on interroge la structure sociale qui sous-tend la pratique architecturale elle-même. Car ce qui fait défaut, dans la majorité de ces situations, n’est pas la qualité des décisions ni même la compétence des acteurs, mais l’existence d’un espace dans lequel ces décisions peuvent être discutées, appropriées et transmises. Autrement dit, une communauté de pratiques au sens précis que lui donne Étienne Wenger.
 
@@ -97,7 +97,7 @@ Nous défendons une thèse simple : la Continuous Architecture n'est pas une mé
 
 Pour comprendre pourquoi une communauté de pratiques est nécessaire, il faut d'abord saisir ce que la Continuous Architecture demande vraiment à une organisation — et pourquoi ces exigences dépassent ce qu'un individu ou une équipe centralisée peut accomplir seul.
 
-Le Continuous Architecture Framework (CAF) pose une équation provocatrice : *ALIGNMENT + AUTONOMY > CONTROL*. Derrière cette formule se cache un changement de paradigme fondamental. L'architecture traditionnelle fonctionnait par contrôle : une autorité centrale — un comité d'architecture, un chief architect, une tour d'ivoire — émettait des décisions que les équipes devaient respecter. Ce modèle est séduisant dans sa clarté, mais il montre ses limites dans des environnements caractérisés par une forte variabilité, une pression d’évolution continue et une distribution des responsabilités techniques. Dans ces contextes, les mécanismes centralisés tendent à introduire des goulots d’étranglement et des décalages décisionnels, même s’ils restent pertinents dans des systèmes à forte criticité ou à faible taux de changement.
+Le Continuous Architecture Framework (CAF) pose une équation provocatrice : *ALIGNMENT + AUTONOMY > CONTROL*. Derrière cette formule se cache un changement de paradigme fondamental. L'architecture traditionnelle fonctionnait par contrôle : une autorité centrale — un comité d'architecture, un chief architect, une tour d'ivoire — émettait des décisions que les équipes devaient respecter. Ce modèle est séduisant dans sa clarté, mais il montre ses limites dans des environnements caractérisés par une forte variabilité, une pression d’évolution continue et une distribution des responsabilités. Dans ces contextes, les mécanismes centralisés tendent à introduire des goulots d’étranglement et des décalages décisionnels, même s’ils restent pertinents dans des systèmes à forte criticité ou à faible taux de changement.
 
 La Continuous Architecture propose autre chose : distribuer la capacité de décision architecturale, tout en maintenant un alignement suffisant pour que les décisions locales restent cohérentes avec la direction globale. C'est une vision d'une élégance remarquable — et d'une difficulté pratique considérable. Car comment maintenir l'alignement sans le contrôle ? Comment s'assurer que des dizaines d'architectes répartis dans des équipes différentes, sous des hiérarchies différentes, dans des fuseaux horaires différents, prennent des décisions qui convergent plutôt que de se contredire ?
 
