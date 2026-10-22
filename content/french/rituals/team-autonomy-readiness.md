@@ -31,7 +31,7 @@ Le niveau d’autonomie est défini équipe par équipe en fonction de l’éval
   * le niveau d’investissement,
   * les engagements contractuels/sourcing.
 
-![image](./images/rituals/kit-autonomy-assesment.png)
+![image](./images/rituals/misc/kit-autonomy-assesment.png)
 
 💡 : Le niveau de maturité fonctionnelle et technique de l’équipe, croisé avec le niveau de risque architectural, détermine sa capacité à prendre des décisions d’architecture de manière autonome.
 

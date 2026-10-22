@@ -31,7 +31,7 @@ The level of readiness is defined delivery team by delivery team based on the as
   * level of investment
   * sourcing that engage the company
 
-![image](./images/rituals/kit-autonomy-assesment.png)
+![image](./images/rituals/misc/kit-autonomy-assesment.png)
 
 💡 : Together, the team’s functional & technical maturity and the level of architecture risk determine its level of readiness to self-manage architectural decisions on products it manages.
 
